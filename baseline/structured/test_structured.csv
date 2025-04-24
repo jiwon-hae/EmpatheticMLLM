@@ -1,0 +1,2611 @@
+Dialogue_ID,Utterance_ID,Response
+0,0,"Oh, it's a silly little system I have to keep track of things."
+0,1,That sounds like a lot of pressure.
+0,2,"Yeah, I can see how that would be annoying."
+1,0,"I'm trying, it's just... hard."
+1,1,I'm right here with you.
+1,2,I don't think I can.
+1,3,"I'm right here with you, Lydia."
+1,4,"I'm here with you, keep going."
+1,5,"It's okay, you seem a little down."
+1,6,It's okay to feel a little deflated right now.
+1,7,"You're doing great, just keep going."
+2,0,Okay.
+2,1,"Yes, there is."
+2,2,"Oh no, that's frustrating!"
+2,3,"Alright, I'm with you."
+2,4,I understand this is frustrating.
+2,5,"I'm trying, I'm trying!"
+2,6,"I can't do that, I'm not strong enough!"
+2,7,I don't think I can.
+2,8,I'm trying!
+2,9,I'm here for you.
+2,10,I'm here for you.
+3,0,It sounds like you're feeling a bit relieved.
+3,1,I understand; it can be overwhelming.
+3,2,I understand.
+3,3,I understand.
+3,4,I understand that must be really frustrating.
+3,5,"Yeah, I can definitely feel your frustration."
+3,6,"I know, right?"
+4,0,Are you alright?
+4,1,I just feel so overwhelmed right now.
+4,2,That's amazing!
+4,3,I can't believe it!
+4,4,"Oh, honey, that's got to be disappointing."
+4,5,"Oh no, are you okay?"
+4,6,"I am so sorry, that's awful timing!"
+4,7,I can't believe you're going to go on set like that!
+4,8,"You're really stressed, aren't you?"
+5,0,I can see how that would make you uncomfortable.
+5,1,"It's a little overwhelming, isn't it?"
+5,2,It sounds like you're feeling a bit overwhelmed right now.
+5,3,"No, I don't."
+5,4,"I’m sorry, I didn’t realize I was making you uncomfortable."
+5,5,I'm not in for anything.
+5,6,"Oh, wow, that must be frustrating."
+5,7,"Oh, wow, that must be frustrating."
+5,8,I'm not sure I should.
+6,0,"Oh, boy, here we go."
+6,1,"Oh, that sounds confusing."
+6,2,"Yeah, it's just a little confusing, huh?"
+7,0,I can understand how that might feel disappointing.
+7,1,"It's just not the same, is it?"
+7,2,That sounds really intense.
+7,3,That sounds really intense.
+7,4,That sounds really intense.
+7,5,"Wow, that sounds intense."
+7,6,"Oh, that sounds awful."
+7,7,You sound like you're really not enjoying this.
+7,8,"Oh, so you tasted the duck?"
+8,0,That must have been so frustrating.
+8,1,I'm really glad I could make you feel better.
+8,2,"Awkward and bumpy, I can imagine."
+8,3,"Yeah, it was like the whole thing was off-kilter."
+8,4,"I understand, it can be frustrating when things feel off."
+8,5,"I'm sorry, it sounds like you're really frustrated."
+8,6,It sounds like you were really thrown off.
+9,0,"Whoa, are you okay?"
+9,1,"It's okay, you're alright."
+9,2,"That's a relief, but still, it's a lot to deal with."
+9,3,"That's a relief, at least."
+9,4,That sounds really upsetting.
+9,5,"I'm really not sure right now, I'm a little preoccupied."
+9,6,"That's a bit insensitive, isn't it?"
+9,7,I can see how that would be frustrating.
+9,8,It sounds like things are really tough right now.
+9,9,"Oh, I'm so sorry to hear that."
+9,10,"Oh honey, I am so sorry."
+9,11,"Oh, honey, I'm so sorry."
+9,12,"I'm so sorry, I know how much that sweater meant to you."
+9,13,I understand how upsetting this must be.
+9,14,"No, I don't."
+9,15,"Oh, wow, I get it, that really sucks."
+9,16,"Oh, thank you, that's so kind."
+9,17,I can't imagine how difficult this must be.
+10,0,I understand; it can feel overwhelming.
+10,1,It sounds like you're feeling overwhelmed.
+10,2,I'm sure it feels like a lot.
+10,3,"I'm sorry, that sounds really tough."
+11,0,"I know, it feels like we're stuck."
+11,1,"I know, it's so frustrating when things don't go as planned."
+11,2,"Oh, honey, that sounds so stressful."
+11,3,"Okay, I understand, I'll be discreet."
+11,4,That must be so stressful right now.
+12,0,"I know, it feels ridiculous, doesn't it?"
+12,1,I just don't understand why you two would be so upset.
+12,2,I understand it's hard to see us like this.
+12,3,I understand that you're upset.
+12,4,"I'm trying, but it's not working."
+12,5,"This isn’t easy, is it?"
+12,6,"I know, and it's the hardest thing to watch this happen."
+12,7,I can see how much this is hurting you.
+12,8,I know you don't want this to end.
+12,9,I can see how much this is hurting you.
+12,10,"I understand, it's hard when things feel so trivial."
+12,11,It sounds like you're really torn.
+12,12,I am so sorry.
+12,13,I'm just trying to help.
+12,14,"It's hard to know sometimes, isn't it?"
+12,15,"I do, of course."
+12,16,It's like you're at a crossroads.
+12,17,Yeah.
+12,18,Then why are we even doing this?
+12,19,I am so happy for you both.
+13,0,I understand.
+13,1,I understand.
+13,2,I can understand why you'd feel that way.
+13,3,"Oh, honey."
+13,4,"It makes you feel like you're in a tough spot, doesn't it?"
+13,5,It sounds like you're feeling really frustrated right now.
+13,6,"I know, it's frustrating."
+13,7,It sounds like you're really hurting.
+14,0,"No, I haven't, and I'm really nervous."
+14,1,"Wow, that must have been something."
+14,2,"Wow, that must have been pretty intense."
+14,3,"Oh wow, so many yeahs!"
+14,4,"It's scary, isn't it?"
+14,5,I'm so nervous for you!
+14,6,I got you.
+14,7,"Oh, wow."
+14,8,I'm just trying to have some fun.
+14,9,"Oh, that's fantastic news!"
+14,10,That's wonderful news for Joey!
+15,0,That's a really powerful thing to say.
+15,1,"Wow, that sounds like a really intense situation."
+15,2,"Wow, that's a really intense offer."
+15,3,Bye!
+15,4,I'm going to miss you.
+15,5,"I'm sorry, I just don't want to get you hurt."
+16,0,"Sure, here you go."
+16,1,"Oh, I'm sorry, I didn't realize it bothered you."
+16,2,"I understand, it can be awkward when you don't know anyone."
+16,3,"Oh, so you're feeling a bit put on the spot?"
+16,4,"Wow, that's a lot of money!"
+16,5,"Wow, that's a lot of money!"
+16,6,"Oh, that's not good."
+16,7,It’s frustrating when people don’t take you seriously.
+16,8,It's understandable to feel frustrated when others aren't taking the information seriously.
+16,9,I understand your frustration.
+17,0,"Oh, I bet you have some great memories of those times."
+17,1,"Oh, that must have been fun."
+17,2,"Oh, wow, that must have been fun."
+17,3,That sounds like a vivid memory.
+17,4,"Oh, that sounds like a stressful memory."
+17,5,"Oh, honey, I can only imagine what you're going through right now."
+17,6,"It's alright, you deserve to be angry."
+17,7,That's incredibly frustrating and disrespectful.
+17,8,"It's just so infuriating, isn't it?"
+17,9,It's just so frustrating to see him profit like this.
+17,10,I know it's so frustrating.
+17,11,I am so sorry.
+17,12,I can't believe he's doing this to us.
+17,13,I'm so sorry you're dealing with this.
+17,14,"I understand, it's frustrating when someone doesn't take your concerns seriously."
+17,15,I’m just trying to get through this.
+17,16,"Oh, honey, I get it."
+17,17,"Oh, honey, I'm so sorry, that sounds incredibly stressful."
+17,18,"Oh, honey, what happened?"
+17,19,"Oh, that's a lot to carry."
+17,20,"Oh no, you poor thing!"
+17,21,"I am so sorry, honey."
+17,22,I just don't know what to do.
+17,23,"You're really trying to make things better, aren't you?"
+17,24,"I hear you, it's incredibly frustrating when things don't go as planned."
+17,25,"This is hard, I know."
+17,26,"Oh, honey, I can see how frustrating this is for you."
+17,27,I just want this to be over.
+17,28,"Oh, honey, I know how much this means to you."
+17,29,"I know, it's so frustrating when things seem impossible."
+17,30,"This is so hard, I know."
+17,31,"I hear you, honey."
+17,32,"I know, it’s like reliving your childhood all over again."
+18,0,I can see how that would feel embarrassing.
+18,1,I can see how that would make you feel uncomfortable.
+18,2,"This is so stressful, isn't it?"
+19,0,"Yes, I know, it's disappointing."
+20,0,"Okay, I understand."
+20,1,I just don't want anyone to make fun of me.
+20,2,"Oh, wow, you're really excited about this, aren't you?"
+20,3,"Wow, you seem really frustrated."
+20,4,I understand.
+20,5,I just want to be fashionable!
+20,6,"Oh, wow, you're really frustrated."
+20,7,"Oh, Joey."
+21,0,"No, I haven't. I'm terrified."
+21,1,It sounds like you're feeling optimistic but also a little nervous.
+21,2,"It's still tough, though, right?"
+21,3,That's a lot to consider.
+21,4,"I understand, it's a difficult thing to think about."
+21,5,I love you too.
+21,6,"I know this is hard, but I'm here for you."
+22,0,Hey there.
+22,1,What's up?
+22,2,"Yeah, it really did."
+22,3,I'm sorry to hear that.
+22,4,I'm really sorry to hear that.
+22,5,I'm so sorry.
+22,6,I'm so sorry.
+22,7,"I don't know, I just thought..."
+22,8,I'm so sorry that happened.
+22,9,"I know, it's a lot to take in."
+22,10,"I know, right?"
+22,11,"No, I don't think so."
+22,12,I’m glad you think so.
+22,13,"I'm sorry, I didn't mean to make you feel that way."
+22,14,I can't believe you'd end things over that.
+22,15,"I'm sorry, but you're hurting."
+22,16,"I know, but it's just…a lot."
+22,17,I'm glad you feel that way.
+22,18,I'm not sure I'm ready for this.
+22,19,I'm not sure if that's what I want.
+22,20,I'm... surprised.
+22,21,What are you thinking?
+23,0,Hey there.
+23,1,"I do, but it's your decision, and I want you to be happy."
+23,2,"I'm sorry, I didn't mean to upset you."
+24,0,"Yes, of course, I'm listening."
+24,1,I'm all ears.
+24,2,I understand.
+24,3,That sounds exciting and a little nerve-wracking!
+25,0,I don't know what to say.
+25,1,"Oh, I'm so sorry, I didn't realize it was still bothering you."
+25,2,"I know, it really did hurt."
+25,3,I feel terrible about hurting you.
+25,4,Are you alright?
+25,5,"I'm so sorry, are you alright?"
+25,6,What?
+25,7,I wish!
+25,8,I can only imagine how much that hurts.
+25,9,I can understand why that would be a bit hurtful.
+25,10,I guess that's what you think.
+25,11,I really do.
+25,12,"Wow, that must have stung."
+25,13,I’m right here.
+25,14,I'm all ears.
+25,15,"You know, you're right, I did."
+25,16,You must be feeling really hurt right now.
+26,0,That's fantastic!
+27,0,Hey there.
+27,1,How are you doing today?
+28,0,Down.
+28,1,"Sure, go ahead."
+28,2,"Of course, I understand."
+28,3,"Oh, wow, that sounds awful."
+28,4,It was a really awful experience.
+28,5,"I'm sorry, that sounds really tough."
+28,6,"I understand, it's tough to talk about those things."
+28,7,"Oh, wow, that sounds mortifying."
+28,8,That sounds like a really awkward situation.
+28,9,That sounds awful.
+28,10,That sounds really frustrating.
+28,11,I'm so sorry; I can't imagine how difficult that must be.
+28,12,It must be hard to be here.
+28,13,I know how it feels to visit someone.
+28,14,That’s really nice to hear.
+28,15,"Oh, you must be terrified right now."
+28,16,"Oh no, I'm so sorry, I didn't realize."
+29,0,I'm so glad to hear that.
+29,1,"That's such a bummer, I'm sorry."
+29,2,"That's a relief, I was starting to sweat a little."
+29,3,That's a relief!
+29,4,I'm just a little overwhelmed right now.
+29,5,"Oh no, what is it?"
+29,6,I can't.
+29,7,"I understand, it's frustrating when you can't have what you want."
+29,8,"I know, but these are different somehow."
+29,9,I understand; sometimes it's just not the same.
+29,10,"I'm so sorry, I know how you feel."
+29,11,"You're very welcome, I'm glad you enjoyed it."
+29,12,"I know, it's the best, isn't it?"
+30,0,I feel so lost and confused right now.
+30,1,"Oh, honey, that sounds terrifying."
+30,2,"Yeah, but I didn't like it."
+30,3,"Oh, that sounds a bit rough, actually."
+30,4,"Oh, that sounds like a disaster!"
+30,5,"Oh, honey, that sounds awful."
+31,0,"Yeah, I could really use a hand."
+32,0,"It's okay, I understand; it's a lot to take in."
+32,1,Sangria sounds perfect right now.
+32,2,You seem really happy right now.
+32,3,I understand.
+32,4,I can only imagine how much that would mean to you.
+32,5,That must be really hard.
+32,6,"Okay, wow, that's a lot to process, and I'm here for you."
+32,7,Tell me.
+32,8,"Oh wow, you must be so excited to hear this!"
+32,9,"Oh, wow."
+32,10,"Yeah, it sounds like it was tough."
+32,11,"Yeah, it was, uh, it was a lot."
+32,12,"Oh, wow."
+33,0,It sounds like you're feeling pretty desperate right now.
+33,1,"Oh, you must be feeling so frustrated right now."
+33,2,"Oh, no, that sounds terrifying!"
+33,3,I can't imagine how frustrating this must be.
+33,4,"Oh, thank goodness!"
+33,5,"Oh, bless her heart."
+33,6,That sounds incredibly frustrating.
+33,7,"I know, it's so frustrating when they won't settle."
+33,8,It's okay to feel overwhelmed right now.
+33,9,"I know, it's so incredibly frustrating when they just won't settle."
+33,10,"I know, it's incredibly frustrating when you're this exhausted."
+34,0,I know it must feel really frustrating to hear that.
+34,1,I can see why you feel that way.
+34,2,I can see how that would feel frustrating.
+34,3,"Yes, I have."
+34,4,I just feel so… left behind.
+34,5,I can't believe you thought that.
+34,6,"I'm so sorry, that must be a lot to deal with."
+34,7,"I understand, it must be frustrating."
+34,8,That sounds really lonely.
+34,9,It sounds like you're really hoping this Roger is the one.
+34,10,That sounds like a really difficult decision to make.
+34,11,It sounds like you're really torn.
+34,12,I can't believe you're finally ready.
+34,13,I know you've been wanting to for a while.
+34,14,You sound like you're really ready for this.
+34,15,"You're absolutely right, it should be freeing."
+34,16,"It’s just, so much pressure, isn’t it?"
+34,17,"I know, I know, but I'm just saying..."
+34,18,"I'm sorry, I didn't mean it like that."
+35,0,I can see you're really focused.
+35,1,I can't believe it!
+35,2,I'm so sorry I'm late.
+35,3,I'm so glad you're back.
+35,4,"Just breathe, you're doing great."
+36,0,I'm on my way.
+36,1,I understand your hesitation.
+37,0,That must feel really awful.
+37,1,It sounds like you're feeling really hurt right now.
+37,2,That sounds like a really intense feeling.
+37,3,I guess I can see how that would be upsetting.
+37,4,It sounds like you're feeling really cornered right now.
+37,5,"Oh, so you're feeling pressured right now?"
+37,6,I understand you're not sure how this will help.
+37,7,"Oh, Chandler..."
+38,0,"That's amazing, congratulations!"
+38,1,That's so sweet of you to say!
+38,2,"Of course, I'd love to help you."
+38,3,"It's for the lead in ""Hamlet!"""
+38,4,"Oh wow, that's fantastic!"
+39,0,"No, I haven't, but I hope you find him."
+39,1,"No, and I'm starting to get worried."
+39,2,"Oh no, is he lost?"
+39,3,"Oh, I see."
+39,4,"No problem, buddy."
+39,5,"Oh, you're worried he might spoil the surprise."
+39,6,That must have been quite a sight.
+39,7,"I guess I'm just a little worried, then."
+39,8,"Oh, you're right, I remember now."
+39,9,"I know, I know, it's a lot to take in right now."
+39,10,"Oh, sweetie, I'm worried too."
+39,11,"Okay, I'm not worried."
+40,0,That's great to hear!
+40,1,I can understand why that would be difficult to think about.
+41,0,"I guess so, but I'm still feeling a little awkward about it."
+41,1,"Oh wow, that's... quite a thing."
+41,2,That must be incredibly disappointing.
+41,3,"Yeah, I get how disappointing that must be."
+41,4,"I'm so sorry, that must be incredibly disappointing."
+41,5,"I just thought we had something real, you know?"
+41,6,"I'm sorry, that must be really disappointing."
+41,7,I'm sorry you're feeling down.
+41,8,"I know, it's the worst."
+41,9,What's wrong?
+41,10,I can tell this is really important to you.
+41,11,Why?
+41,12,"Yeah, it's okay to be girls."
+42,0,You're welcome.
+42,1,I'm sorry to hear that.
+42,2,"I'm so sorry, of course."
+42,3,I appreciate that.
+42,4,I understand.
+42,5,I just don't think I can.
+42,6,"Oh, wow."
+42,7,That must have been frustrating.
+42,8,"Oh, wow, that must have been a tough call to make."
+43,0,That sounds like fun!
+43,1,The [team name] are playing [opponent team name].
+43,2,"Oh, right, which game?"
+43,3,"Yeah, I've been feeling a bit down lately."
+43,4,It sounds like you're feeling pretty burnt out.
+43,5,"I'm just saying, it's nice to have a break sometimes."
+43,6,"It's okay, you don't have to."
+44,0,"I don't know, but it's really bothering me."
+44,1,"I understand, it must be difficult."
+44,2,I'm just not ready to talk about it.
+44,3,"Oh, wow."
+45,0,"I'm just not feeling it today, okay?"
+45,1,"Oh, honey, I just need you to get ready."
+45,2,"Oh, wow, I can feel how important this is to you."
+45,3,"Yes, really, now let's go, please!"
+45,4,I'm so glad you're excited!
+45,5,"You're welcome, Phoebe."
+45,6,"I'm so sorry, I didn't mean to upset you."
+45,7,"Okay, okay, I'm going!"
+45,8,"Oh, honey, that sounds difficult."
+46,0,"Oh no, what happened to them?"
+46,1,It's hard when something you rely on is gone.
+46,2,"It's hard to let go, isn't it?"
+46,3,I can't bear to part with them either.
+46,4,It's hard to let go of something you love.
+46,5,"You really love them, don't you?"
+46,6,"Oh no, what happened?"
+46,7,"Oh no, that’s awful!"
+46,8,"Oh no, I can feel your pain!"
+47,0,"I know, it's going to be hard."
+47,1,I'm going to miss you so much.
+47,2,I'm really going to miss our routine.
+47,3,I’m really going to miss that.
+47,4,I'm really going to miss that.
+47,5,"It just won't be the same, will it?"
+47,6,"I know, it's going to be a big change."
+47,7,"I know, it’s going to be different."
+47,8,Hi.
+47,9,"It's going to be different, isn't it?"
+47,10,"It's going to be an adjustment, for sure."
+47,11,"Oh, wow."
+47,12,I think she was pretty bummed.
+47,13,That's gotta be a relief.
+48,0,"Thanks so much, I really appreciate it."
+48,1,"I understand, it's easier to ask someone in person."
+48,2,I just feel so overwhelmed right now.
+48,3,Sounds like a plan!
+48,4,That sounds exciting!
+48,5,That's great!
+48,6,That's the spirit!
+49,0,Hello there.
+49,1,How are you doing today?
+49,2,"It's late, isn't it?"
+49,3,"Oh, wow, that's late."
+49,4,"Oh no, that's not good."
+49,5,"Oh yeah, I guess you're right."
+49,6,"Sounds like a plan, enjoy the morning!"
+49,7,I'm excited for you!
+49,8,"It's a nice feeling, isn't it?"
+49,9,"Hey, are you okay?"
+49,10,That sounds amazing.
+49,11,That sounds amazing.
+49,12,"That does sound pretty amazing, though."
+49,13,That sounds amazing.
+49,14,That sounds like fun!
+49,15,I really want to go!
+49,16,"I know, it's a big decision."
+50,0,That sounds like a very unusual name.
+50,1,"I have no idea what you mean, but I'm intrigued."
+50,2,"It's okay, these things happen."
+50,3,"It’s okay, I understand."
+51,0,Hi there!
+51,1,How are you doing today?
+51,2,"Oh wow, that's really nice to hear."
+52,0,That sounds like a lot to handle right now.
+52,1,"I know, I know."
+52,2,"Oh, that sounds really stressful."
+52,3,"Yeah, it's a lot to deal with."
+52,4,"Oh, that's really thoughtful of you."
+52,5,"I know, it’s complicated."
+52,6,That must be a lot to think about.
+52,7,"I just think it’s a lot to think about, you know?"
+52,8,"Wow, that's a lot to think about."
+52,9,"I know, it's a lot to process."
+52,10,I can see how this would be a lot to process.
+52,11,"I'm sorry, man."
+53,0,"Oh my goodness, you must be so excited!"
+53,1,"Oh, you're so excited!"
+53,2,"Oh wow, you must be so excited!"
+53,3,I'm so glad you like it!
+53,4,I can tell you're really excited about this.
+53,5,"Oh, honey, I am so sorry."
+53,6,"I'm so sorry, that must be disappointing."
+53,7,"I'm so sorry, I didn't realize things were so complicated."
+53,8,I didn't mean it like that!
+53,9,That's actually a really good idea!
+53,10,I'm so glad we're thinking of ways to cheer her up!
+53,11,That's a fantastic idea!
+53,12,I'm so glad we're making this a little less awful!
+54,0,"Yes, it's a really difficult thing to go through."
+54,1,"Alright, I understand this must be a difficult time for both of you."
+54,2,It's incredibly difficult to go through something like this.
+54,3,I understand this is difficult.
+54,4,I understand this must be difficult to hear.
+54,5,I understand this is a lot to take in.
+54,6,"I am so sorry, this must be a lot to take in."
+54,7,I understand this is a lot to process.
+54,8,This is so unfair.
+54,9,"Oh, this is all coming out now, isn't it?"
+54,10,I understand this is difficult to hear.
+54,11,"I'm so sorry, this must be incredibly difficult."
+55,0,"I hear you, it's about more than just being alone."
+55,1,It's frustrating when people make assumptions like that.
+55,2,"Oh, honey, I hear you."
+56,0,It must be so incredibly painful to be in this situation.
+56,1,"It's just so hard, isn't it?"
+56,2,"It really is, isn't it?"
+56,3,"Yes, I see it too."
+56,4,I understand how much that must hurt.
+56,5,I just want to see my baby.
+56,6,"It's hard, isn't it?"
+56,7,I just want to hold my baby.
+56,8,You're welcome.
+56,9,I feel so much better.
+56,10,"It's amazing, isn't it?"
+56,11,I'm so happy for us.
+57,0,I understand.
+57,1,"That sounds like a fun, intimate idea."
+57,2,"I'm sorry, I didn't mean to make you uncomfortable."
+57,3,"I'm sorry, I didn't mean to make you uncomfortable."
+57,4,I love you too.
+57,5,I am so sorry.
+58,0,Hey there! How are you feeling?
+58,1,How are you doing?
+58,2,"Oh, wow."
+58,3,I'm sorry you feel that way.
+58,4,I'm not sure I'm in the mood for that.
+58,5,Oh.
+58,6,I'm sorry to hear that.
+58,7,I'm sorry.
+58,8,That must be a lot to navigate.
+58,9,"Yeah, I get that it's complicated."
+58,10,"I know, it's a lot to take in."
+58,11,"I'm fine, just a little lost in thought."
+58,12,"I'm doing okay, but I hear you."
+58,13,"Oh wow, that sounds…intense."
+58,14,It must feel complicated.
+58,15,I think I'm good.
+58,16,I'm here if you need to talk.
+59,0,I'm glad you think so.
+59,1,It's frustrating when things don't quite turn out right.
+59,2,"It's okay, I understand how that could be frustrating."
+60,0,That would be really difficult to face.
+60,1,I know it's hard not to worry about the future.
+60,2,I know it's hard to be optimistic right now.
+60,3,"I know, it's scary to think about."
+60,4,It sounds like you're really anxious about the procedures.
+60,5,"I know, it's not exactly the most romantic setting, is it?"
+60,6,"I'm sorry, I didn't mean to make light of it."
+61,0,"Oh wow, that must have been mortifying."
+61,1,"Oh, wow, that sounds awkward."
+61,2,It sounds like you're feeling a bit put on the spot.
+62,0,I understand.
+62,1,I'm sorry to hear that.
+63,0,Hey.
+63,1,How are you doing?
+64,0,I'm so sorry; I didn't realize I'd hurt you so much.
+64,1,That sounds like a really frustrating situation.
+64,2,That must feel incredibly frustrating.
+64,3,I'm just really disappointed in you right now.
+64,4,I'm sorry you're feeling so betrayed right now.
+64,5,I just feel so betrayed right now.
+64,6,I can't believe you're actually agreeing with me.
+64,7,I appreciate that.
+64,8,"That's really tough, having to cut back like that."
+64,9,"I appreciate the offer, but I don't think I can."
+64,10,It sounds like you're feeling a little lost right now.
+64,11,That must have been exciting!
+64,12,It must be a tough transition to make.
+64,13,"It's a tough decision, I know."
+64,14,"I can see that’s tempting, but it’s not an easy decision."
+64,15,"I just, I don't know if I could."
+64,16,"Sure, go ahead."
+65,0,That must feel like a very fundamental loss.
+65,1,I don't know.
+65,2,"Clint, huh?"
+65,3,"I get that, it's a tough name to live up to."
+65,4,I'm just trying to find a name that suits you.
+65,5,"That's a little... disappointing, isn't it?"
+65,6,"Wow, you're really attached to that name."
+65,7,"Ugh, fine."
+65,8,"Oh man, that must be frustrating."
+65,9,"It's okay, I get it."
+65,10,"It's okay, I get it, names can be important."
+66,0,It's good to be here.
+66,1,"It was a long one, but I'm glad to be here."
+66,2,That's wonderful to hear!
+66,3,"I did, thanks."
+66,4,I'm so glad to hear that!
+67,0,What's wrong?
+67,1,That sounds like a really frustrating situation.
+67,2,That sounds frustrating.
+67,3,"It's alright, I get it."
+68,0,I understand your frustration.
+68,1,"I just want to understand, that's all."
+68,2,"I know, but it's still a lot to take in."
+68,3,I'm just trying to understand why you're so upset.
+68,4,"Oh, Rach..."
+68,5,"This is a big deal, isn't it?"
+68,6,I'm just so shocked.
+68,7,I'm sure it's hard to imagine.
+68,8,This is so weird.
+68,9,I don't know.
+68,10,"This is so frustrating, isn't it?"
+68,11,"I'm sorry, I really wish I did."
+68,12,What?
+68,13,"You're really worried about this, aren't you?"
+68,14,"Oh, Joey..."
+69,0,I understand your frustration; it's tough seeing your friend suffer.
+69,1,I understand your frustration; it's tough waiting when you're worried.
+69,2,I understand your frustration; waiting that long is tough.
+69,3,I'm just really worried about them.
+69,4,"I know, and I'm sorry."
+69,5,"I'm so sorry, I can only imagine how painful that must be."
+70,0,I can imagine it's frustrating when others don't recognize that.
+70,1,"Well, I went to a pretty prestigious school in New York."
+70,2,That must have been a different kind of challenge.
+70,3,"I took some classes in New York, but..."
+70,4,"I see, it's frustrating when people don't take your passion seriously."
+70,5,"Of course, I understand."
+70,6,"Okay, thanks, I appreciate that."
+70,7,You're welcome.
+70,8,It's frustrating when things don't go the way you want them to.
+70,9,I can tell you're really angry right now.
+70,10,That sounds incredibly uncomfortable.
+70,11,I can see why you'd feel that way.
+70,12,It sounds like you're feeling really vulnerable right now.
+70,13,I can see why you would feel that way.
+70,14,That must feel really frustrating.
+70,15,I can see how difficult that must be.
+70,16,I know that feeling all too well.
+70,17,"I understand, it's a difficult thing to face."
+70,18,I know how much it hurts.
+70,19,I'm so happy you're here.
+70,20,"Oh, Tabatha, it's so good to see you!"
+70,21,I'm happy for you both.
+70,22,"Wow, that's a lot to process."
+71,0,"Oh, that sounds really interesting!"
+71,1,That's neat!
+71,2,That's amazing!
+71,3,"Oh, that's too bad."
+71,4,"I understand, it can be tough."
+71,5,"I know, it can be tough."
+71,6,"It is awkward, isn't it?"
+71,7,"I know, it can be tough."
+71,8,"It's okay, I know this can be difficult."
+71,9,"I get it, that can be a little nerve-wracking."
+71,10,I can see you're feeling confident.
+71,11,It sounds like you're feeling relieved.
+71,12,That sounds like a relief.
+71,13,"Wow, that must have been a pretty big relief!"
+72,0,"Oh, that's wonderful news!"
+72,1,Great!
+72,2,What's wrong?
+72,3,"I'm sorry, I didn't mean to upset you."
+72,4,I'm really not okay with this.
+72,5,That sounds incredibly frustrating and disheartening.
+72,6,I understand how frustrating this must be.
+72,7,I understand your frustration; it must be incredibly difficult.
+72,8,I understand how frustrating this must be.
+72,9,I understand how frustrating this must be.
+72,10,I understand how frustrating this must be.
+72,11,This must be so frustrating for you.
+72,12,"Oh honey, I am so sorry, this is awful."
+72,13,"Oh, honey, I can only imagine how frustrating this is."
+72,14,"Oh, honey, I'm so sorry, this must be incredibly frustrating."
+72,15,"It’s just not fair, is it?"
+72,16,You're in so much pain right now.
+73,0,I can see why you'd be worried.
+73,1,"You're feeling defensive, I can tell."
+73,2,I guess that makes sense.
+73,3,I understand you want to be friendly.
+73,4,"Okay, I hope it goes well."
+73,5,"Okay, just be careful, alright?"
+73,6,I hope it goes well.
+73,7,I can understand why you'd feel that way.
+73,8,"It's okay, I get it."
+73,9,I can see that this is frustrating.
+73,10,It sounds like you're feeling a bit lost and confused.
+74,0,"Oh, I'm sorry, I didn't realize I wasn't being supportive."
+74,1,"I appreciate that, thank you."
+74,2,I understand it feels like we're not backing you.
+74,3,I feel like you're not really taking me seriously.
+74,4,That's a lot to process all at once.
+75,0,"Of course, I'm happy to be here."
+75,1,I'm glad we could connect.
+75,2,Thank you for offering me a seat.
+75,3,I'm a little nervous.
+75,4,I'm ready.
+75,5,"Oh, wow, okay."
+76,0,"Oh, that must have felt great!"
+76,1,"Hi Monica, it's nice to meet you."
+76,2,"Hey there, Paolo."
+76,3,"Hello, Joey."
+76,4,"So, Paolo, what do you think of all of us?"
+76,5,Hi!
+76,6,It's nice to meet you all.
+76,7,"Oh, that must be difficult."
+76,8,"It's okay, I understand."
+76,9,It looks like he's from Italy.
+76,10,"Oh, that must be exciting!"
+76,11,It must be strange to have someone new just appear like that.
+76,12,That must have been quite a surprise.
+76,13,"Oh, honey."
+76,14,"It's a little unsettling, isn't it?"
+76,15,That must have been a surprise.
+76,16,I can see why you'd feel a bit left out.
+76,17,"Oh, wow, so you're just meeting him now?"
+76,18,"It's a lot to take in, isn't it?"
+77,0,I'm not sure I understand.
+77,1,"Oh, honey..."
+77,2,I can see why you'd be upset.
+77,3,You really want to do this?
+77,4,"I'm sorry, I didn't realize you were hungry."
+78,0,Because it hurts.
+78,1,"Oh, I see... that must be disappointing."
+78,2,"I know, I'm sorry."
+78,3,"It's okay, you sound tired."
+78,4,Hi.
+78,5,What's on your mind?
+78,6,What?
+78,7,"Oh, wow, that's amazing!"
+78,8,I'm so proud of you!
+78,9,Congratulations!
+79,0,I'm so excited!
+79,1,Are you not excited?
+80,0,I know this is incredibly upsetting.
+80,1,I can't believe this is happening.
+80,2,"I know, it's a lot to deal with right now."
+80,3,I'm just so angry right now.
+80,4,"I'm sorry, I didn't mean to upset you."
+80,5,I can't believe you're saying that.
+80,6,"I appreciate that, thanks, honey."
+80,7,I'm just so worried about where we'll go.
+80,8,"I know this is hard, but you can do this."
+80,9,"Okay, just go talk to him, and we'll figure it out."
+81,0,It's hard to believe someone wouldn't want something in return.
+81,1,That sounds like a difficult trade-off.
+82,0,"Honestly, I'm feeling pretty overwhelmed right now."
+83,0,"Oh, wow, that must feel like a huge loss."
+83,1,"I’m so sorry, that must have been incredibly disorienting."
+83,2,"Oh, wow, that sounds like a lot to process."
+83,3,"Oh, that sounds incredibly overwhelming."
+83,4,"Oh, wow, that sounds intense."
+83,5,I can only imagine how that must feel right now.
+83,6,I think I pulled a muscle in my back.
+83,7,"Oh no, what could be worse?"
+83,8,I think I might know what you're about to say.
+83,9,"Oh, that’s rough."
+83,10,That sounds incredibly frustrating and confusing.
+84,0,I just feel so lost and confused right now.
+84,1,You seem upset.
+84,2,"Oh no, that sounds absolutely awful."
+85,0,"I understand, it's still a worry though, right?"
+85,1,I'm really worried for you.
+85,2,"I understand, it's scary to think about going to the doctor."
+85,3,"I understand, it's scary when something like that happens."
+85,4,"It's frustrating when your body doesn't cooperate, especially after you've been working hard."
+85,5,It's frustrating when things like this come up and mess with your plans.
+86,0,"Oh, I see."
+86,1,It sounds like there's a lot more to it than meets the eye.
+86,2,"That sounds like a lot of work, and a labor of love."
+86,3,"Oh, honey."
+86,4,"Oh, honey, that sounds like a disaster."
+86,5,"Oh, I'm so sorry to hear that."
+86,6,"Oh, honey."
+86,7,"It's okay, I understand."
+87,0,"Oh, I get what you mean."
+87,1,"Oh, wow..."
+88,0,I'm so excited to be here!
+88,1,"I know, it's exciting, isn't it?"
+88,2,"I know, it can be a lot sometimes."
+88,3,"I know, it's hard when you don't want to watch something."
+88,4,"I know, it's hard to resist, isn't it?"
+88,5,"I know, it's so frustrating when you just want a simple glass of milk."
+88,6,It is so frustrating when you just want a simple glass of milk.
+88,7,"I know, it's so frustrating!"
+88,8,"I know, it's frustrating when you just want a simple glass of milk."
+88,9,"I understand, it can be frustrating when you don't want to watch something."
+88,10,"I can feel your frustration, Kevin."
+88,11,I can see why you'd be intrigued!
+88,12,I can feel your excitement!
+88,13,I can't believe how excited you are!
+89,0,I'm ready.
+89,1,That's really convenient.
+89,2,I'm so happy for you!
+90,0,That must be incredibly difficult to hear.
+90,1,"I'm so sorry, that must be incredibly difficult to process."
+90,2,"I'm so sorry, that must be incredibly painful."
+90,3,Thank you.
+90,4,I'm so sorry you're hurting so much right now.
+90,5,I can only imagine how much that hurts.
+91,0,"Sure, here you go."
+92,0,"Me neither, I'm so excited!"
+92,1,That sounds like a plan!
+92,2,That sounds like a stressful situation.
+92,3,"Oh, honey, I didn't mean to make you feel that way."
+92,4,"Oh, you're sweet."
+92,5,"I'm sorry, I didn't mean to make you angry."
+93,0,That sounds incredibly stressful.
+93,1,I just feel so lost right now.
+93,2,"I wish I could, but I can’t risk my job either."
+93,3,"Oh man, this is really bad timing, huh?"
+93,4,"I'm here for you, whatever it is."
+93,8,What's up?
+93,9,"I know, it’s a lot to take in."
+93,10,"I'm not doing so well, to be honest."
+93,11,"I'd do anything for you, man."
+93,12,Because I'm your friend.
+93,13,I understand you must feel really desperate right now.
+93,14,I just need to get this mini-fridge past security.
+93,15,"You're really hoping to impress her, aren't you?"
+94,0,I understand that must have been a shock.
+94,1,That must feel incredibly dehumanizing.
+94,2,I'm not sure I want to be alone right now.
+95,0,"Oh, wow, I can see how that would be disappointing."
+95,1,"Oh, no problem, I'm glad I could help!"
+95,2,"Yeah, I did."
+95,3,"Oh wow, I am so sorry."
+95,4,"I'm so sorry, I didn't realize you felt so strongly about it."
+95,5,"I am so incredibly sorry, that is just so unfair."
+95,6,I understand why you're feeling frustrated right now.
+95,7,I can't believe you felt you had to do that.
+95,8,It sounds like that was a tough decision to make.
+95,9,"Oh honey, I'm so sorry, I didn't realize it would make you feel that way."
+95,10,I feel like I'm stuck in a tough spot right now.
+95,11,I think I might be a little bit hurt right now.
+95,12,I just feel like you're not seeing my side.
+95,13,That's a tough spot to be in.
+95,14,I just wanted to make a good impression.
+95,15,You seem a little hurt.
+95,16,"Oh, hey Ross!"
+95,17,"Oh, that's gotta sting."
+95,18,I get why you'd feel a little left out right now.
+95,19,"I'm sorry, that must feel really awkward."
+96,0,"Of course, here you go."
+96,1,"My skin is so dry, it's really uncomfortable."
+96,2,"Oh wow, that's exciting!"
+96,3,I promise I won't.
+96,4,"Of course, anything for you."
+96,5,"He's right here, trying to calm down."
+96,6,"Oh, honey, I get it."
+96,7,"Oh honey, are you okay?"
+96,8,I'm so sorry!
+96,9,I'm so sorry!
+96,10,Sounds like you're in a tough spot.
+96,11,"Oh, that's so sweet of you!"
+96,12,"Yeah, it was pretty magical."
+96,13,"Oh, wow, that's a tight schedule."
+96,14,"Yeah, I get that."
+96,15,Sounds like you're in a tough spot right now.
+96,16,"Yeah, I get that."
+96,17,"Yeah, those moments can be pretty special."
+96,18,Of course.
+96,19,"Oh, honey, I'm so sorry."
+96,20,"Wow, you really are in a hurry."
+97,0,Hey Joey!
+97,1,"Of course I remember you, Monica!"
+97,2,"That's so sweet, Joey!"
+97,3,"It's pretty amazing, but also a lot of hard work, y'know?"
+97,4,"It's pretty amazing, isn't it?"
+97,5,"It's pretty cool, yeah."
+97,6,"Wow, that must feel amazing."
+97,7,"Oh, I bet you're dying to tell him!"
+97,8,"What's wrong, Joey?"
+97,9,"Oh, alright!"
+97,10,"No problem, Joey."
+97,11,You sound a little overwhelmed.
+98,0,"It must be a little unsettling, though, right?"
+98,1,That sounds really unsettling.
+98,2,"It must be a little scary, too, with so much darkness."
+98,3,"Yeah, I guess it's getting chilly."
+98,4,Because it's going to get cold.
+98,5,I guess it's pretty frustrating when you had plans.
+98,6,"Oh honey, I know, it's frustrating when you're all dressed up."
+98,7,I can see how you'd be worried.
+98,8,"I'm sorry, I know you're worried."
+98,9,I'm here for you.
+98,10,"Of course, here's the number."
+98,11,"Oh, you're worried about her, aren't you?"
+99,0,"Just feeling a bit lost, to be honest."
+99,1,Sounds refreshing.
+99,2,She's gone.
+99,3,"Oh, right."
+99,4,"Yes, I'm sure."
+99,5,I guess we could.
+99,6,"Okay, let's do it."
+99,7,"Oh, that's disappointing."
+99,8,"Oh, you're feeling a little sad for the chick, aren't you?"
+99,9,I'm so sorry.
+100,0,It's just that I don't want to be a burden.
+100,1,I'm glad you feel safe.
+100,2,I do.
+100,3,I'm glad you feel that way.
+100,4,That sounds really nice.
+100,5,"Hey, it's alright, no need to apologize."
+100,6,"It's alright, I understand."
+100,7,"It's okay, I understand."
+100,8,"It's alright, I'm here."
+100,9,It’s okay to feel a little overwhelmed.
+100,10,"It's alright, accidents happen."
+100,11,It's alright.
+100,12,"Oh, honey."
+100,13,You don't sound so good.
+100,14,I guess it can be overwhelming.
+100,15,"I don’t know, but I’m sure she’ll be okay."
+100,16,"I'm sorry, I can't."
+100,17,I'm here.
+100,18,"You miss her, don't you?"
+100,19,Leslie?
+101,0,Hey!
+101,1,What's on your mind?
+101,2,I just feel so lost right now.
+101,3,"Oh no, that sounds frustrating."
+102,0,"I'm so sorry, that must have been really hurtful to hear."
+102,1,That must have been a shock for you.
+102,2,I understand why you're upset.
+102,3,It sounds like you're feeling a bit hurt.
+102,4,I understand your frustration.
+102,5,I just wanted to know everything.
+102,6,I understand this must be frustrating.
+102,7,"I know, it's frustrating when things don't go the way you expect."
+102,8,"I don't think so, but I don't know her well."
+102,9,"You're really worried about this, aren't you?"
+103,0,Hey there.
+103,1,What's wrong?
+103,2,I'm here for you.
+103,3,"No, it's about something else entirely."
+103,4,"Oh, wow, that sounds tough."
+103,5,"Yeah, it's been a while."
+104,0,I'm not comfortable answering that.
+104,1,"Okay, I understand."
+104,2,I'm so sorry you feel that way.
+105,0,Are you alright?
+105,1,"You're alright, it's okay, I'm here."
+105,2,"I'm so sorry, I didn't mean to scare you!"
+106,0,That sounds incredibly frustrating.
+106,1,That sounds incredibly frustrating.
+106,2,"I know, it's a tough habit to break."
+106,3,I can imagine how upsetting that must be.
+107,0,"Yes, what is it?"
+107,1,I'm so nervous to ask.
+107,2,"Yes, I do."
+107,3,"Oh, I see."
+107,4,Oh.
+107,5,"Oh, that's a shame."
+107,6,"Oh, wow, that must have been a while ago."
+107,7,That must have been a long time ago.
+107,8,That must have been a difficult time for you.
+107,9,I'm just curious.
+107,10,I'm curious to hear what you're thinking.
+107,11,"Oh, honey..."
+107,12,I guess I don't.
+108,0,I hear you.
+108,3,"I hear you, it feels like a real violation of trust."
+108,4,"I get that, it's tempting when the deal is good."
+108,5,"I hear you, money's tight."
+108,6,"Wow, that looks so comfy!"
+108,7,"Oh, honey, I get it."
+108,8,I can see why you're so excited!
+108,9,"That's really sweet of you, Phoebe."
+109,0,That's a pretty neat party trick!
+109,1,Just quarters.
+109,2,"Oh, wow."
+109,3,That must have been a really tough thing to do.
+109,4,"Yeah, I'm sure."
+109,5,I'm sensing a bit of playful darkness there.
+109,6,I understand that can be difficult to accept.
+109,7,I'm not sure I like the sound of this.
+110,0,I can't believe she would do that.
+110,1,"Oh, so you're feeling a bit insecure right now."
+110,2,That sounds incredibly nerve-wracking.
+110,3,I can't believe she would do that.
+110,4,I can understand why you're feeling so excited.
+110,5,That sounds really special.
+110,6,It sounds like you're really looking forward to this.
+110,7,That sounds like a really good plan.
+110,8,It sounds like you're feeling a little nervous about this.
+111,0,"No, thank you, but it's really kind of you to think of me."
+111,1,That means a lot to me.
+111,2,I love you too.
+111,3,"Oh, honey, I'm so sorry, I didn't mean to upset you."
+111,4,"It's alright, I get it, it's just a lot to process."
+111,5,"I know, I know."
+111,6,"I'm sorry, I know it must be hard to hear."
+111,7,I can only imagine how confusing that must be.
+111,8,"I know, it's just that I feel so… hurt."
+111,9,"Yes, we're okay."
+111,10,It's okay if you need some time.
+111,11,"I know, I know, this is all a lot to take in."
+111,12,"Oh, wow."
+111,13,"I know, right?"
+111,14,Wow.
+112,0,What's wrong?
+112,1,"Oh, is it something special?"
+112,2,"That's really frustrating, I'm sorry."
+112,3,"Wow, that sounds really frustrating."
+112,4,"I know, it's like they're everywhere."
+112,5,"I'm so sorry, that's awful."
+112,6,That really stinks.
+112,7,I understand; it's incredibly frustrating.
+112,8,I really appreciate you saying that.
+112,9,I know we will.
+112,10,I wouldn't have it any other way.
+112,11,It's like a crime scene.
+112,12,Wow.
+112,13,"Oh, my God."
+112,14,Thank you.
+112,15,"Well, I'm sorry you have to go through this."
+112,16,I've always felt like everything happens for a reason.
+112,17,"Well, I'm glad someone is."
+112,18,I would love that.
+112,19,Great! I'll wait.
+112,20,Sure.
+112,21,"Well, that’s a shame."
+113,0,"I know, I'm just really frustrated right now."
+113,1,"I'm just trying to have some fun, okay?"
+113,2,"I can't believe it, that's a long time."
+113,3,"Alright, come on in, the water's fine."
+113,4,"Okay, I can see you're really invested in this."
+113,5,"I'm sorry, what's wrong?"
+113,6,"Oh, no, that's frustrating."
+113,7,I know it's frustrating to have a dropper on your team.
+113,8,I can see why you'd be upset.
+113,9,I understand that can be frustrating.
+113,10,I can see how that would be frustrating.
+113,11,You sound frustrated.
+113,12,"I know, it can be frustrating when things get tough."
+113,13,"You're getting pretty frustrated, huh?"
+113,14,That sounds pretty frustrating.
+113,15,"It's okay, you're frustrated, I get it."
+113,16,"It's just not working out, is it?"
+114,0,"Oh, that's frustrating, I'm sorry."
+114,1,"I appreciate the offer, but I don't think so."
+114,2,"I know, it's a lot, but you sounded so stressed."
+114,3,"I'm just... overwhelmed, Joey."
+114,4,I was just trying to help.
+114,5,"I don't think I'm ready to pick a day, Joey."
+115,0,That sounds like a very important order!
+115,1,I know it's frustrating when you feel like you're not good at something.
+115,2,"Oh, come on, don't get your feathers ruffled."
+115,3,I guess it wasn't your best moment.
+115,4,"You seem really invested in this, Chandler."
+115,5,You think you can really pull it off?
+116,0,That must make it difficult to stay connected.
+116,1,It's got to be tough not knowing.
+116,2,It's gotta be frustrating when you feel like you're not being heard.
+116,3,"I'm sorry, I didn't mean to upset you."
+116,4,"I'm sorry, this is obviously hard for you."
+116,5,"Yeah, you too."
+116,6,It sounds like you're feeling a bit dismissed.
+116,7,I can see you're really passionate about this.
+116,8,I can see you're really passionate about this.
+116,9,I can see you're really passionate about this.
+116,10,I can tell you're really passionate about this.
+116,11,I can see this is frustrating you.
+117,0,"Thank you for the reminder, I appreciate it."
+117,1,I'm glad you enjoyed it.
+117,2,"Yeah, I'm glad you enjoyed it."
+117,3,I appreciate you being here.
+117,4,"Sure, what's up?"
+117,5,"That move can be a little unsettling, can't it?"
+117,6,"Oh, wow, that sounds really scary."
+117,7,I understand that can be a bit overwhelming to think about.
+117,8,"Yeah, I’m just saying, what if you were me?"
+118,0,"I understand, it's never easy to be in this position."
+118,1,"It's okay, I understand."
+118,2,I just want you to be happy.
+118,3,I...I just don't know what to say.
+118,4,"I understand, it’s okay to feel that way."
+118,5,It’s okay to feel that way.
+118,6,Tell me.
+118,7,"Just, can you promise to stay?"
+118,8,Tell me about him.
+118,9,"Wow, that's a lot to process, I can see why this is difficult."
+118,10,"Yes, I think so."
+118,11,"Okay, bye."
+119,0,You sound really determined.
+119,1,"Oh, wow, that must be a little embarrassing."
+119,2,"Oh, wow, that must be tough."
+119,3,"I know, it's frustrating when someone's not as skilled."
+119,4,"Oh, wow, that sounds really tough."
+119,5,I understand.
+119,6,That sounds like a lot of pressure.
+120,0,I appreciate that.
+120,1,That sounds lovely!
+120,2,That sounds so lovely and inviting.
+120,3,That sounds like a wonderful idea!
+120,4,It sounds like you're feeling a little overwhelmed by the details.
+120,5,I'm glad you do.
+120,6,I can tell you're feeling a bit defensive.
+120,7,"Oh, that sounds like a big change from the guest room idea."
+120,8,It sounds like you're a bit unsure about this idea.
+120,9,I can tell you're feeling pretty strongly about this.
+120,10,"I'm sorry, I just don't think it would work."
+120,11,It sounds like you're feeling a little deflated.
+120,12,I guess I just really don’t want a game room.
+120,13,I see.
+120,14,I'm sensing a bit of disappointment there.
+120,15,I didn't realize I was coming across so negatively.
+120,16,I guess it’s just that I like the idea of a beautiful guest room.
+120,17,"No, I'm not."
+120,18,"I'm just a little disappointed, that's all."
+121,0,"Me too, it's one of my favorite things."
+121,1,I'm so glad we have these moments together.
+121,2,"Oh, I think I know what it is!"
+121,3,You're a genius!
+121,4,I love you too.
+121,5,I feel so loved right now.
+122,0,"Oh, so you were trying to protect me?"
+122,1,Because I was afraid of how you'd react.
+122,2,It's okay not to know.
+122,3,I'm glad you're excited!
+122,4,That's exciting!
+123,0,"Oh no, what happened?"
+123,1,But he still let you down.
+123,2,"Oh, wow, that must feel like a real betrayal."
+123,3,"I know, it's incredibly frustrating when things don't work out."
+123,4,Because it will just make you feel worse.
+123,5,"Oh, wow, that's a lot to deal with all at once."
+123,6,"I know, it’s awful when things aren’t what they seem."
+123,7,He just broke up with you?
+123,8,I’m so sorry; this is a lot to deal with right now.
+123,9,"Ugh, that sounds incredibly frustrating."
+123,10,That sounds incredibly frustrating.
+123,11,"Oh, wow, that's a lot to handle all at once."
+123,12,"Oh, honey, that sounds awful."
+123,13,"Oh, honey, I am so sorry."
+123,14,I hear the frustration in your voice.
+123,15,"Oh, wow, that's a tough call."
+124,0,"Oh no, are you going to miss your flight?"
+124,1,Safe travels.
+124,2,"I have no idea, and that's what scares me the most."
+124,3,That sounds like a long and difficult journey.
+124,4,It's going to be so hard to be apart.
+124,5,Goodbye.
+124,6,I'll miss you so much.
+124,7,I'll miss you too.
+124,8,I'm so sorry.
+124,9,I'll never forget you.
+124,10,I'm so glad.
+124,11,It's so good to see you.
+124,12,I'm so sorry.
+124,13,"Oh, honey, I can't believe you're doing this for me."
+124,14,"Oh, Janice, I don't know what to say."
+125,0,Hello there.
+125,1,How are you doing?
+125,2,"She's really struggling, actually."
+125,3,That's great to hear!
+125,4,"She seemed very pleased, yes."
+125,5,That's wonderful to hear.
+125,6,I'm here.
+125,7,How are you feeling today?
+125,8,"Sure, take your time."
+125,9,"Oh, that sounds stressful."
+125,10,"Of course, take your time."
+125,11,"Oh no, what’s wrong?"
+125,12,That sounds like a lot to manage at once.
+125,13,"Oh no, that's terrible news."
+125,14,"Oh, wow, that's terrible."
+125,15,That’s… a lot to process.
+125,16,That's a lot to process.
+125,17,I'm so sorry.
+125,18,I can't believe this is happening.
+125,19,I know how much that show meant to you.
+125,20,"I know, it's just… a lot to take in."
+125,21,"No, don't be."
+125,22,"I know, it's just…wow."
+126,0,I can see why you'd feel that way.
+126,1,"Me too, it's peaceful."
+126,2,No need to apologize; I understand.
+126,3,"No, I was just thinking about something else."
+126,4,"Of course, I will."
+126,5,I’m really scared right now.
+126,6,"It's okay, I'll go check."
+126,7,Okay.
+126,8,"I'm coming, I'm coming."
+126,9,You seem really scared.
+126,10,"Oh, honey."
+126,11,You feel betrayed.
+126,12,"I'm so sorry, I didn't know."
+126,13,"Oh, thank you."
+126,14,"You're welcome, sweetie."
+126,15,I'm so glad you're feeling better.
+127,0,"I know, it was awful."
+127,1,That must have been quite jarring.
+127,2,I understand that might be confusing.
+127,3,I'm not sure I'm ready to talk about that.
+127,4,"I’m sorry, that must have been unsettling."
+127,5,"I understand, and I appreciate you looking out for us."
+128,0,"Just staring out the window, feeling a bit lost."
+128,1,"Leaning is a very important activity, isn't it?"
+128,2,"It helps, doesn't it?"
+128,3,"Oh no, are you scared?"
+128,4,Oh no! Are you okay?
+128,5,"Oh my goodness, are you serious?"
+128,6,You seem really worried.
+128,7,I think I do.
+128,8,I understand this must be incredibly difficult for you.
+128,9,I am so sorry you are going through this.
+129,0,"Okay, I'm ready."
+129,1,"I'm sorry, I don't understand."
+129,2,"I understand, it's frustrating when things don't go as planned."
+129,3,It's frustrating when you're not getting what you need.
+129,4,It's frustrating when you're not getting what you need.
+129,5,"Okay, I understand."
+129,6,"I can feel the pressure, but we've got this!"
+129,7,I'm not sure I can do that.
+130,0,"I don't know yet, and I'm really anxious to find out."
+130,1,It sounds like you're really hoping he won't come.
+130,2,I just don't want to deal with the fallout if he's offended.
+130,3,I see you're worried about the presentation.
+130,4,I'm so glad you think so.
+130,5,You sound a little unsure.
+130,6,"It’s hard to know who to include, isn't it?"
+130,7,"Oh, that's nice of you."
+130,8,"Yeah, I know she's been having a rough time."
+130,9,That must have been a tough call.
+130,10,That sounds really difficult.
+130,11,I can see why you're feeling conflicted.
+130,12,I can imagine that would be a difficult situation.
+130,13,"I understand, it's a tough call."
+130,14,"That would be lovely, thanks."
+130,15,It sounds like you're really trying to be considerate of my feelings.
+130,16,"That sounds lovely, thanks."
+130,17,I can see this is a difficult decision.
+131,0,Hi there.
+131,1,How are you doing today?
+131,2,"Not great, honestly."
+131,3,That's wonderful to hear!
+131,4,I'm so relieved to hear that.
+131,5,"I'm so sorry, that must have been a shock."
+131,6,"Oh, wow, that must have been a lot to take in."
+131,7,"I'm so sorry, that must be disappointing."
+131,8,"Oh honey, I am so sorry."
+132,0,"Of course, I'd be glad to."
+132,1,"Of course, I can help you find them."
+132,2,"Oh, that must be a difficult situation to deal with."
+132,3,I'm worried about him.
+132,4,I can look that up for you.
+132,5,"Oh, I understand that must be frustrating."
+132,6,"I understand your frustration, but I still can't give you that information."
+132,7,"I'm sorry, I'm not sure I understand."
+132,8,"I understand, but I can't give out that information."
+132,9,"Look, I can see you’re trying to help someone."
+132,10,I understand you're feeling incredibly stressed and worried right now.
+132,11,I understand this is urgent and you're feeling desperate.
+132,12,I understand this is a stressful situation.
+132,13,I understand this must be incredibly frustrating for you.
+132,14,I understand how frustrating this must be.
+132,15,Thank you so much.
+132,16,You're welcome.
+132,17,You're welcome.
+132,18,I understand this is important to you.
+132,19,"I understand your concern, but I can't provide that information."
+133,0,Hello there!
+133,1,How are you doing today?
+133,2,"Oh no, that sounds really painful!"
+133,3,"It really stings, doesn't it?"
+133,4,You're very welcome.
+133,5,I'm glad I could help.
+133,6,"Okay, sounds good."
+133,7,See you soon.
+133,8,What's wrong?
+133,9,What is it?
+133,10,Bye.
+133,11,"I'm here for you, what's wrong?"
+133,12,"Oh, honey."
+133,13,I'm so sorry.
+133,14,"Oh, honey."
+133,15,Oh honey.
+134,0,I just feel so lost right now.
+134,1,"Oh no, I'm so sorry."
+134,2,I know you're disappointed.
+134,3,I can only imagine how frustrating that must be.
+135,0,"Oh no, that's terrible!"
+135,1,"Yes, really."
+135,2,"Of course, I'll call him right away."
+135,3,"Okay, great!"
+135,4,"Oh, that's so kind of you!"
+135,5,That's great to hear!
+136,0,I'm so glad you like it!
+137,0,It's a tough spot to be in.
+137,1,It's a tough spot to be in.
+137,2,I get that feeling.
+137,3,It's a mountain of nachos.
+137,4,"No, but I am intrigued."
+137,5,"Just sitting here, eating this cake."
+137,6,"It's okay, you don't have to tell me."
+137,7,"I'm sorry, I'm just a little distracted right now."
+137,8,Are you okay?
+137,9,"Oh, wow, that's a lot to take in."
+137,10,"Yeah, that's rough."
+137,11,"Oh, wow, that’s…a lot to process."
+137,12,"Wow, that's gotta sting."
+137,13,That sounds incredibly frustrating.
+137,14,That sounds incredibly frustrating.
+138,0,"I'm not sure, I can't remember."
+138,1,"Oh, I'm so sorry to hear you say that."
+138,2,"Oh no, that sounds mortifying."
+138,3,"Oh, honey, I am so sorry."
+139,0,I can't believe it!
+139,1,I'm so sorry you feel that way.
+139,2,I'm sorry you feel that way.
+139,3,Hi!
+139,4,I can't believe you're here.
+139,5,Hey!
+139,6,I'm so glad we're here together.
+139,7,Right here.
+139,8,It's not weird?
+139,9,"Okay, that’s good."
+140,0,I understand how disappointing that must be.
+140,1,"Yeah, it's a real gut punch when you feel so connected to something and it doesn't work out."
+140,2,What's that?
+140,3,"I know you're frustrated, and it's okay to feel that way."
+140,4,"That's a great idea, but it's okay if you're feeling down right now."
+140,5,"That sounds like a lot of work, but also really exciting."
+140,6,"That's a big leap, isn't it?"
+140,7,It's frustrating when things don't go as planned.
+140,8,That's a really tough thing to consider.
+140,9,"That's a great idea, but I don't know if I'm ready for that."
+140,10,That's a thought!
+140,11,"It's okay, we could figure it out together."
+140,12,It's frustrating when you feel like something is out of reach.
+140,13,It's okay to feel that way.
+140,14,That's really kind of you.
+140,15,I really appreciate that.
+140,16,That sounds like a good plan.
+141,0,I mostly shoot landscapes and wildlife.
+141,1,"Oh, that sounds exciting!"
+141,2,I can imagine that's a little frustrating.
+141,3,"Wow, that's really generous of you."
+141,4,"Wow, that must be a unique situation."
+142,0,"That sounds exciting, but also a little nerve-wracking."
+142,1,I can tell you're feeling a bit hopeful right now.
+143,0,"That sounds like a really big step, and I'm proud of you."
+143,1,"That's a fair point, but it's not always easy."
+143,2,"I understand, it's tough when you want to change but also feel stuck."
+143,3,What is it?
+143,4,What are you feeling right now?
+143,5,"Oh, honey, that sounds like a really scary thought."
+143,6,"I'm sorry, that's a really painful thing to worry about."
+143,7,"I'm sorry, I didn't realize this was a fear of yours."
+143,8,"Oh wow, that's a lot to take in."
+144,0,"Oh, it sounds incredibly frustrating."
+144,1,"Oh, it sounds like you're feeling a bit frustrated."
+144,2,I understand.
+144,3,"I know, it’s hard, but please, just try."
+144,4,I understand it must be difficult to feel so hurt.
+144,5,"I know, it's incredibly frustrating."
+144,6,"Oh, honey, that sounds incredibly frustrating."
+144,7,I understand it's difficult to face her.
+144,8,"Oh, Monica, that must feel incredibly hurtful."
+144,9,"I'm so sorry, that must feel really hurtful."
+144,10,That must have stung.
+144,11,"I know, it feels awful when you're left out."
+144,12,I can see you're really hurting.
+144,13,I'm so sorry.
+144,14,You think you’re not wanted?
+145,0,"We're just feeling really down, you know?"
+145,1,"Just browsing, I guess."
+145,2,"Oh no, what happened?"
+145,3,I'm so sorry to hear that.
+145,4,"Oh, Chandler, that's so sweet."
+145,5,"I'm feeling the same way, actually."
+145,6,"Oh, wow, that's a big step."
+145,7,"I'm here for you, buddy."
+145,8,I'm glad you're being open with me.
+145,9,It sounds like you're really nervous about this.
+145,10,I can see that you're really torn up about this.
+145,11,I can see why you're feeling that way.
+145,12,It sounds like you're really wrestling with a big decision.
+146,0,"Oh, that's really thoughtful of you."
+146,1,"Oh no, that's awful, I'm so sorry to hear that."
+146,2,"I know, I was really looking forward to that too."
+146,3,"Oh, that sounds really stressful for everyone."
+146,4,"I know, it's so frustrating when things fall apart like that."
+146,5,"Wow, that’s a lot to process."
+146,6,"Yeah, I can imagine that's a relief."
+147,0,That must feel incredibly frustrating.
+147,1,"I'm so bummed, too."
+147,2,"I know, it's late, but I'm really not ready for this to end."
+147,3,"I understand the frustration, it's late."
+147,4,"I'm sorry, I didn't realize it was so late."
+147,5,I can tell you're feeling really frustrated right now.
+147,6,I can see you're really frustrated right now.
+147,7,"Okay, I understand."
+147,8,"Okay, I understand."
+147,9,I'm just so tired.
+147,10,I can see you're really disappointed.
+148,0,It's okay.
+149,0,I don't want to leave either.
+149,1,I understand.
+149,2,I'm so sorry.
+150,0,"I know, it feels like everyone's watching."
+150,1,"Oh, sweetheart, I can see you're hurting so much."
+150,2,"I understand, it feels like everything is too much right now."
+150,3,"I’m sorry, I should have known."
+150,4,I don't want you to go.
+150,5,"I’m really sorry, honey."
+151,0,What's wrong?
+151,1,There's something gross on the floor?
+151,2,"Oh, I'm sorry, I didn't realize you were upset."
+151,3,"No, I can't."
+152,0,That must feel like a really special connection.
+152,1,"Yeah, it feels like a betrayal, doesn't it?"
+152,2,"Oh wow, so you feel like you've both inherited something special?"
+152,3,I'm so sorry.
+152,4,That must be so disappointing.
+153,0,That must feel incredibly freeing.
+153,1,I understand this might feel a little daunting.
+153,2,That sounds... lonely.
+153,3,It sounds like you're feeling a bit apprehensive about this.
+153,4,That sounds incredibly daunting.
+153,5,That sounds incredibly difficult.
+153,6,It's tough to just jump into something when you're scared.
+153,7,That sounds incredibly daunting.
+153,8,I'm glad I could help.
+153,9,"Yeah, I do."
+153,10,"Wow, you really are feeling brave right now."
+153,11,I can understand why that would be terrifying.
+154,0,Hey! What's wrong?
+154,1,I'm glad you're here.
+154,2,"Oh, wow, that's so exciting!"
+154,3,"Oh wow, I'd love to!"
+154,4,"Oh, I understand, that's a shame."
+154,5,"Oh no, I don't know."
+154,6,"Oh no, I'm so sorry, that's awful."
+154,7,"I am so sorry, that is awful."
+154,8,"I am so sorry, that's awful."
+154,9,I'm sorry that happened.
+154,10,"I'm sorry, that's awful."
+154,11,"I'm so sorry, that must have been really upsetting."
+154,12,It really does capture the magic of the moment.
+154,13,"It's so easy to let those things slide, isn't it?"
+154,14,I'd love that.
+154,15,"Yeah, I think that would be really special."
+154,16,That actually sounds really nice.
+154,17,That sounds really fun.
+154,18,"Yeah, definitely."
+154,19,Bye.
+154,20,Bye!
+155,0,That sounds really tough.
+155,1,That sounds incredibly frustrating.
+155,2,"I'm sorry, I don't understand."
+155,3,"I'm sorry, I didn't mean to upset you."
+155,4,I just feel so trapped right now.
+155,5,"I’m sorry, I didn't mean for things to get this bad."
+155,6,"I'm sorry, I didn't mean it like that."
+155,7,Okay.
+155,8,I’m sorry.
+156,0,That's wonderful news!
+156,1,"Oh no, that's such a bummer."
+156,2,"I'm sorry, I know you were looking forward to it."
+156,3,"I understand, that must be frustrating."
+156,4,She's feeling a little under the weather.
+156,5,"Oh, that’s… disappointing."
+156,6,"I'm so sorry, this must be frustrating."
+156,7,"I can't help but feel a bit uneasy about this, to be honest."
+156,8,"I'm sorry, I don't know, I really don't."
+156,9,"Oh, Bing, I am so sorry."
+156,10,I feel so lost right now.
+156,11,"Oh Bing, I'm so sorry."
+156,12,Please don’t say that.
+156,13,"I appreciate that, I really do."
+156,14,I could really use a friend right now.
+156,15,"I know, right?"
+157,0,It must be so heartwarming to see them like that.
+157,1,You love her so much.
+157,2,"Oh my god, are you serious right now?"
+157,3,"Oh, Rachel, you sound really stressed."
+157,4,I'm just trying to make sure everyone is safe.
+157,5,"Oh, that's really thoughtful of you."
+157,6,"You go, I'll keep watch."
+157,7,I'm here.
+158,0,"No, he didn't."
+158,1,I was really hoping he would.
+158,2,I know how much you were looking forward to his call.
+158,3,It's okay to feel frustrated and disappointed.
+158,4,I know it's incredibly frustrating when someone doesn't follow through on their word.
+158,5,I know how frustrating that must feel.
+158,6,"It’s just a guess, I don’t know."
+159,0,"No, I didn't, and I'm so sorry this is happening."
+159,1,I just don't want you to feel bad about this.
+160,0,"Yes, it's awful when you hurt someone you care about."
+160,1,It sounds like you're feeling frustrated.
+160,2,It sounds like you're feeling really hurt right now.
+160,3,I can see why you'd feel that way.
+160,4,It sounds like you're feeling really hurt right now.
+160,5,It sounds like you're feeling really hurt right now.
+160,6,It sounds like you're really feeling hurt and a bit left out.
+160,7,It sounds like you're feeling really hurt right now.
+160,8,"Oh, so you feel like you're missing out?"
+160,9,"You feel like you're being excluded, don't you?"
+160,10,I can see how that would make you feel left out.
+160,11,"I know, it feels like something really important is ending."
+160,12,"I get how that feels, it's like a part of your life is ending."
+160,13,"You're feeling a bit left out, aren't you?"
+161,0,I understand your frustration with the pace.
+161,1,"Oh no, what happened?"
+161,2,"Oh wow, that's a lot to process."
+161,3,"Wow, that's a lot to process."
+161,4,"Thanks, I'm really happy."
+161,5,"Thanks, I'll need it."
+161,6,Is everything okay?
+161,7,Are you okay?
+161,8,I can see you're excited to see her.
+161,9,"Wow, that's a huge question to be asked."
+161,10,"Oh, that's wonderful!"
+161,11,"That's wonderful, I'm so happy for you!"
+162,0,"Oh no, are you alright?"
+162,1,Do you need some help?
+162,2,"Oh no, that's frustrating!"
+162,3,"Oh, I see."
+162,4,I understand.
+162,5,"Oh no, I really hope I didn't!"
+163,0,"Maybe they were just overwhelmed, too."
+163,1,I was expecting a tear or two.
+163,2,"I'm sorry, I didn't mean to upset you."
+163,3,"It really was a special day, wasn't it?"
+163,4,"It was a really touching moment, wasn't it?"
+163,5,"It really does make you miss them, doesn't it?"
+163,6,It really does feel like a piece of them was missing.
+163,7,"I know, it's hard when you're missing someone."
+163,8,I can't believe she missed it.
+163,9,I guess I'm just a sentimental sap.
+164,0,It's easy to overlook the classics sometimes.
+164,1,"They really did have a lot of hits, didn't they?"
+164,2,That's so cool!
+164,3,That's a pretty special memory.
+164,4,"It's okay, sometimes jokes just take a minute to land."
+164,5,"Oh, honey, I can see how that would be confusing."
+164,6,"I'm sorry, I'm not sure I follow."
+164,7,I’m sorry; I didn't mean to offend.
+164,8,"Wow, that's a lot of money!"
+165,0,"Ugh, that's so frustrating."
+165,1,I just don't know where to look.
+165,2,"They're right here, I can grab them for you."
+165,3,That sounds really frustrating.
+165,4,"I know, it's so frustrating."
+166,0,I know it must be incredibly difficult to have that conversation.
+166,1,"Oh, wow, that sounds incredibly awkward and confusing."
+166,2,I just… I don’t know what to do.
+166,3,"Oh, honey, that must have been so awkward and confusing."
+166,4,"I know this is really hard, but you can do this."
+166,5,I understand; it's tough when you care about someone.
+166,6,"I know it's hard, but you have to be honest with her."
+166,7,You’re going to be okay.
+166,8,"It's really hard to know what to do, isn't it?"
+166,9,"You got this, Joey."
+166,10,"I know this is hard, but you can do it."
+166,11,You are.
+166,12,What?
+166,13,"Oh, Joey."
+167,0,That sounds incredibly bleak.
+167,1,Which is what I find so difficult to get into.
+167,2,"Oh, wow, that's a tough one."
+167,3,"Oh, wow, that sounds really intense."
+167,4,It sounds like you're finding it a bit challenging to articulate the theme.
+167,5,That sounds like it's a lot to unpack.
+167,6,"I'm intrigued, keep going!"
+167,7,"Oh, I'm so sorry, I didn't mean to upset you."
+167,8,I just feel so deflated now.
+167,9,"I'm sorry, I didn't mean to upset you."
+167,10,I'm just feeling really frustrated right now.
+167,11,I can see why you're frustrated.
+167,12,I'm just feeling really put on the spot right now.
+167,13,"I'm sorry, I didn't realize it was important to you."
+167,14,I'm just really frustrated right now.
+167,15,"I'm sorry, I didn't mean to make you feel that way."
+167,16,"I'm feeling a bit lost now, too."
+168,0,"Okay, I'm ready."
+168,1,"I know, it's a little nerve-wracking, isn't it?"
+168,2,"Right, you're feeling a bit nervous about this whole thing, aren't you?"
+168,3,You seem a little nervous about this.
+168,4,"I know, it's a bit much, isn't it?"
+168,5,"Oh, honey, you're feeling a little on edge, aren't you?"
+168,6,I'm really nervous about this.
+168,7,"Hey, I'm the one with the name tag."
+168,8,"Oh, honey, that sounds awful."
+168,9,I am freaking out right now!
+168,10,"I'm so sorry, that sounds incredibly upsetting."
+168,11,"Oh, man, that's awful, I'm so sorry."
+168,12,I can see why you'd be upset.
+168,13,I can't believe you'd accuse me of something like that.
+168,14,This is a lot to take in right now.
+168,15,I'm just trying to figure out what's happening.
+168,16,"This is not a good look, man."
+168,17,"Hey, no need to get hostile, man."
+168,18,"I'm sorry, man."
+169,0,What happened?
+169,1,I'm so happy!
+169,2,What do you mean?
+169,3,I’m so sorry you feel that way.
+169,4,"I know, it’s a lot to take in."
+169,5,"I know, it’s just… a lot."
+169,6,I understand how much this means to you.
+169,7,"Oh, honey, that must be such a shock."
+169,8,"I know, it's a lot to take in."
+169,9,"I know, I know."
+169,10,"I know, right?"
+169,11,"I know, right?"
+169,12,I can't believe this is happening!
+169,13,I can't believe this is happening.
+169,14,"This is a lot to take in, isn't it?"
+169,15,"I know, right?"
+169,16,This is so confusing!
+169,17,"I'm so sorry, I don't know."
+169,18,This is a lot to take in.
+169,19,"I’m so sorry, I feel terrible."
+169,20,What is that?
+169,21,What?
+169,22,What?!
+170,0,I missed you so much.
+170,1,"It hurts, doesn’t it?"
+170,2,Because I was so worried something bad happened.
+170,3,I don't have any trash!
+170,4,"I know, it's gross, isn't it?"
+171,0,I understand.
+171,1,I understand.
+171,2,That sounds a little scary.
+171,3,"I understand, it's hard to feel like you're taking a risk."
+171,4,I'm right here with you.
+171,5,"Oh wow, that's it?"
+171,6,"Phew, that was close!"
+171,7,"Oh, wow, that must feel really disappointing."
+171,8,"Oh, wow, I can feel how disappointed you are."
+172,0,"I don't know, I haven't thought that far ahead."
+172,1,"Oh, I can hear the urgency in your voice."
+172,2,It's a relief to know I can go soon.
+173,0,That sounds really sweet.
+173,1,"Oh, wow, that seems like a strong reaction."
+173,2,"Oh, I see, it's a bit disappointing."
+173,3,"Oh, right, sock rabbits."
+173,4,"Oh, you're really passionate about this."
+173,5,Okay.
+173,6,Okay.
+173,7,"It's alright, I understand."
+173,8,"It's alright, I understand."
+173,9,I understand; it's okay.
+173,10,"It's alright, we can figure something out."
+173,11,"I understand, it's frustrating when things slip your mind."
+173,12,"I know, it’s frustrating when things get mixed up."
+173,13,"Oh, I appreciate that."
+173,14,"I did, and I feel terrible that I forgot."
+173,15,I appreciate that.
+173,16,I feel terrible.
+173,17,I know you will.
+173,18,I can tell.
+174,0,That must have been so frustrating.
+174,1,I just don't know what to think.
+174,2,I can see why you're frustrated.
+174,3,"I'm sorry, I'm just feeling really lost right now."
+174,4,"Oh, hey, what's going on?"
+174,5,I'm really glad you're here too.
+174,6,I understand why you'd feel that way.
+174,7,I just don’t know what to do.
+174,8,"I'm so sorry, that must feel awful."
+174,9,"I'm so sorry, that must be confusing."
+174,10,I guess not.
+174,11,I don't know what's going on.
+174,12,"Oh, wow, that must be tough."
+174,13,"Oh, my gosh, I am so sorry."
+174,14,"Oh, honey, I’m so sorry."
+174,15,"I know, it’s hard when you’re feeling down."
+174,16,I understand it's hard to feel like dancing right now.
+174,17,"I can get you a drink, sure."
+174,18,I understand.
+175,0,I'd like that.
+175,1,Okay.
+175,2,"No, I haven't yet."
+175,3,"I'm sorry, I'm ruining the mood."
+175,4,"That sounds really stressful, I'm sorry."
+175,5,"Oh come on, don't do this to me."
+175,6,"I know, I'm sorry, I'm really trying."
+175,7,"This is a lot, isn’t it?"
+175,8,"Oh, I see."
+175,9,"I’m sorry, I just… I really need those contracts."
+175,10,I can see that you’re frustrated.
+175,11,I understand this is frustrating.
+175,12,I understand why you're upset.
+175,13,I'm so stressed right now.
+175,14,I understand you're really stressed about this.
+175,15,I just... I don't know what to do.
+175,16,"I know you're upset, but I really don't have them."
+175,17,I can't believe this is happening.
+175,18,I can see how this is frustrating.
+175,19,I just… I don’t know why you’re doing this.
+175,20,I just don’t understand why you’re doing this.
+175,21,"I'm just really stressed, that's all."
+175,22,"I’m so sorry, Rach, I didn’t mean to upset you."
+176,0,"It's nice to meet you, Dirk."
+176,1,"It's nice to meet you too, Dirk."
+177,0,"Okay, I'm here to listen."
+177,1,I just...I feel so overwhelmed right now.
+177,2,"Okay, I'm listening."
+178,0,"Honestly, not great, I'm really struggling."
+178,1,"I'm sure they're having a great time, and you're doing just fine."
+178,2,"Oh, that's so sweet."
+178,3,"I'm glad you're enjoying it, Pheebs."
+178,4,"Oh, that's right."
+178,5,What is it?
+178,6,"Oh no, what's going on?"
+178,7,"I know, it's a lot to handle all at once."
+178,8,"I hear you, it's tough when you feel like you're doing all the work."
+178,9,It sounds like you're feeling a bit overwhelmed with the situation.
+179,0,"I'm so sorry, I know I haven't been there for you."
+179,1,I just... I don't understand.
+179,2,"I know, I'm sorry, I just...needed some space."
+179,3,"It's okay, I know you're feeling confused."
+180,0,It sounds like you're trying to be strong.
+180,1,Okay.
+180,2,Alright.
+180,3,Bye.
+180,4,Sounds like you're feeling good!
+180,5,I'm glad to hear that!
+180,6,That's fantastic!
+180,7,"Oh, you don't sound so sure."
+180,8,That must feel like a lot to process.
+180,9,It sounds like you're feeling a bit conflicted about it.
+181,0,"Oh, that sounds like such a sweet memory."
+181,1,That sounds like such a sweet memory.
+181,2,Hi!
+181,3,"Hi, yourself."
+181,4,"Oh no, that sounds really unsettling."
+181,5,I can only imagine how unsettling that must have been.
+182,0,"Happy Holidays to you, too."
+182,1,"Oh, wow, that sounds really frustrating."
+182,2,I can see why you're upset.
+182,3,"Oh no, that's awful!"
+182,4,"Oh no, are you okay?"
+182,5,"Oh no, what do we do?"
+182,6,I'm so glad I could help.
+182,7,I'm so glad you're okay.
+182,8,I can see why that would be alarming.
+182,9,I'm so sorry.
+183,0,I feel so lost right now.
+183,1,I can point you in the right direction.
+183,2,Oh.
+183,3,I understand your frustration; that's disappointing.
+183,4,I understand your frustration.
+183,5,That sounds frustrating.
+183,6,That sounds like a really important goal for you.
+183,7,"Oh, so you're saying there's still a chance?"
+183,8,I wish I had that kind of power.
+184,0,I can only imagine how confusing and frightening that must have been.
+184,1,I can see how that would be really frightening and confusing.
+184,2,I can't believe you're saying that.
+184,3,I can't believe you'd say that.
+184,4,I'm just… I'm really scared.
+184,5,"Oh, wow, that must have been really jarring."
+184,6,I can see why you'd feel that way.
+184,7,"I know it feels that way right now, but try not to worry."
+184,8,It sounds like you're really worried about how this has affected your work.
+184,9,"Yes, and it's completely understandable that you'd feel that way."
+184,10,I can't believe this is happening.
+184,11,I am.
+184,12,Okay.
+184,13,I understand it's a little awkward right now.
+184,14,I felt so ashamed of myself.
+185,0,"Graag gedaan, vriend."
+185,1,It was good to see you.
+185,2,I hear your frustration.
+185,3,That sounds like a fun distraction.
+185,4,I can tell you're excited!
+185,5,That's so awesome!
+185,6,I know how much you love the Knicks.
+185,7,"Okay, I'm on my way!"
+186,0,I can understand how you feel.
+186,1,"Oh, wow, that must sting."
+186,2,"Oh, I can see how that would feel disappointing."
+186,3,I'm just really bummed.
+187,0,"I'm feeling a bit torn, to be honest."
+187,1,"It's okay, Rachel, I understand."
+187,2,It's okay to have a strong preference.
+187,3,I can see you're both feeling a little bit relieved.
+187,4,I'm glad you think so.
+187,5,"I hear you, sometimes you just need a break."
+187,6,That sounds like a great idea.
+187,7,"I do, yeah."
+187,8,"Wow, that sounds like a lot of pressure."
+188,0,"I know, it's hard to hear."
+188,1,"Oh, that's disappointing."
+188,2,I'm feeling really lost right now.
+188,3,"Oh, Bunny, it's okay, take your time."
+188,4,I know.
+188,5,"Oh, Bunny."
+188,6,I know.
+188,7,It sounds like that was really difficult.
+188,8,"It's okay, you don't have to be okay."
+189,0,That sounds exciting!
+189,1,That's a great choice!
+189,2,It truly is a magnificent place.
+189,3,"Hey, what's wrong?"
+189,4,What's up?
+189,5,"It really made an impression on you, huh?"
+189,6,"Oh, really?"
+189,7,"I don't know, I just heard they were thinking about it."
+189,8,"Oh, wow, that must have felt frustrating."
+189,9,That must be frustrating.
+190,0,That's so exciting!
+190,1,"I know, it's such a weird feeling, isn't it?"
+190,2,"Oh, honey, that's so disappointing."
+190,3,I appreciate you saying that.
+190,4,Who?
+191,0,It's okay to feel unsure.
+191,1,I just feel so lost right now.
+191,2,That sounds like it's bothering you.
+191,3,I understand your worry.
+191,4,"Oh, honey."
+191,5,I remember how nervous you were.
+191,6,It sounds like you're feeling a bit overwhelmed.
+191,7,"Oh, wow, that’s gotta sting a little."
+191,8,That sounds frustrating.
+191,9,"I'm really sorry to hear that, Rachel."
+192,0,"Oh, sweetheart, I'm so sorry, I know how much you were looking forward to that."
+192,1,"I know, I'm just feeling a little disappointed."
+192,2,"Oh, so it's not the baby that's the problem then."
+192,3,"I'm sorry, I must have misremembered."
+192,4,"I don't know, I guess I just thought that's what you meant."
+192,5,"I don't know, I just don't like the little girl."
+192,6,"I understand, it must be frustrating to feel like you're not being heard."
+192,7,I'm just trying to understand what's happening here.
+192,8,I'm glad you think so.
+192,9,"I'm sorry, I didn't mean to upset you."
+192,10,"Oh, honey."
+192,11,I can't believe you think that.
+193,0,That's wonderful to hear!
+193,1,That's wonderful news!
+193,2,Sounds good!
+193,3,"Oh, dear."
+193,4,"Oh no, it sounds like you're struggling."
+194,0,"Okay, I will."
+194,1,"I know, it's a lot to take in, isn't it?"
+194,2,"Oh my gosh, that's so messed up."
+194,3,"I know, it's hard to believe."
+194,4,"Oh, I am so sorry you had to experience that."
+195,0,"I'm not mad, I just... I don't know what to do."
+195,1,"Oh, honey, I'm not mad, I promise."
+195,2,"Oh, honey, it's okay, I can see you feel terrible."
+195,3,"No, I'm not afraid of you."
+195,4,"No, I don't want that at all."
+195,5,I just...I don't want to mess things up.
+195,6,"I know you mean it, and I do appreciate the apology."
+195,7,"Oh, honey, it sounds like you were really trying to do something nice."
+195,8,Really.
+195,9,I just...I really don't want to mess things up.
+195,10,I'm really glad to hear you say that.
+195,11,"No, no, Ross didn't sit."
+196,0,"I understand, it's a lot to handle."
+196,1,"I know, it's incredibly frustrating when you feel stuck like this."
+196,2,I understand your frustration; it's a lot to handle.
+196,3,I understand how frustrating this is.
+196,4,That sounds like an incredibly painful and impossible choice.
+196,5,"This is truly a nightmare scenario, I can see why you're so distraught."
+196,6,I can hear the panic in your voice.
+196,7,This is truly a terrible situation.
+196,8,It sounds like you're truly at your wit's end.
+196,9,I can't believe this is happening.
+196,10,"This is really hard, isn't it?"
+196,11,That's probably not what you wanted to hear.
+196,12,This is truly a terrible situation to be in.
+196,13,"This is impossible, isn't it?"
+196,14,I understand how frustrating that must be.
+196,15,"I know, it's unbelievably frustrating."
+196,16,I can see how incredibly frustrating that must be.
+196,17,"You're really at the end of your rope, aren't you?"
+197,0,Yes?
+197,1,I'm just feeling really overwhelmed right now.
+197,2,"Yes, I am."
+197,3,I'm a big fan.
+197,4,"Oh wow, that's so sweet!"
+198,0,That must be such a relief.
+198,1,"Yeah, I can see how that might feel a bit awkward."
+198,2,I can only imagine how frustrating that must feel.
+198,3,"Yeah, but you could still feel the sting, right?"
+198,4,It sounds like you're feeling a bit awkward about the situation.
+198,5,"Yeah, I can see how that might feel a little awkward."
+198,6,I can see why you're feeling so conflicted.
+198,7,"Wow, that's a lot of pressure, isn't it?"
+198,8,It sounds like you're feeling a bit conflicted right now.
+198,9,It must feel a little strange to be in this position.
+198,10,It must feel awful to see her like that.
+198,11,I can go over there now.
+198,12,I'm really feeling for her right now.
+199,0,"Oh no, how did it go?"
+199,1,He sounded really upset.
+199,2,It sounds like you're really struggling right now.
+199,3,He said he needs some space.
+199,4,"Oh, that must have felt awful."
+199,5,I really hope you're right.
+199,6,"It’s okay to feel like you don’t care, sweetie."
+199,7,What are you sad about then?
+199,8,It's okay to not be okay.
+199,9,It's okay to feel that way; it's a lot to process.
+199,10,It's okay to feel confused right now.
+199,11,"No, not really."
+199,12,"Oh, honey, yes."
+199,13,"Oh, honey, that must be a really tough realization."
+199,14,That must be hard.
+199,15,You sound really hurt.
+200,0,It's frustrating when things don't make sense.
+200,1,I understand your frustration.
+200,2,"I know, it's so frustrating when something goes missing and you don't know why."
+200,3,"I know, it's so frustrating when things go missing and no one knows where they went."
+200,4,"I know, this is so frustrating."
+201,0,"Wow, that sounds intense."
+201,1,"I know, it sounds a bit...much."
+201,2,That's... a lot to take in.
+201,3,That sounds like a tight squeeze!
+201,4,That sounds incredibly frightening.
+201,5,That sounds incredibly frightening.
+201,6,That sounds absolutely terrifying.
+201,7,"It was a long time ago, I was a lot smaller."
+201,8,"Wow, that sounds like a really awful experience."
+201,9,"I'm not going in there, no way."
+201,10,You must have been terrified in there.
+201,11,"Wow, that must have been terrifying."
+202,0,"Not much, just feeling a bit down today."
+202,1,Is everything okay?
+202,2,"Oh, are you feeling a bit ignored?"
+202,3,Hey! Hey-hey-hey!
+202,4,Hey! I am!
+202,5,That sounds really lovely.
+202,6,That sounds really nice.
+202,7,Anytime!
+203,0,"Oh, I bet that's frustrating."
+203,1,...miss the simplicity of it all.
+203,2,"Yeah, I just miss having that easy breezy feeling sometimes."
+203,3,I'm so sorry.
+203,4,It sounds like that's a pretty tempting thought.
+203,5,"Yeah, it can be such a hassle!"
+203,6,"Wow, that's a big decision!"
+203,7,"It's a big decision, isn't it?"
+203,8,It sounds like you're feeling a real sense of liberation.
+203,9,"It's a big decision, but it sounds like it would feel good."
+203,10,You're very welcome.
+203,11,"I know, I'm the best."
+203,12,You seem pretty excited about the idea.
+204,0,I know it's hard to let go.
+204,1,I can see how that would feel incredibly frustrating.
+204,2,I just feel so… violated.
+204,3,That sounds incredibly frustrating.
+204,4,That sounds incredibly frustrating and painful.
+204,5,That sounds incredibly frustrating.
+204,6,It sounds incredibly frustrating to see someone else seemingly effortlessly living the life you desire.
+204,7,It sounds incredibly frustrating to see someone else seemingly excel at things you desire.
+204,8,It stings to see someone else living out your dreams.
+204,9,It sounds like you're feeling really frustrated with yourself right now.
+205,0,"Oh, that must have really stung to hear."
+205,1,It sounds like you really admire Mr. Salty's resilience.
+205,2,It sounds like you're really passionate about your snacks!
+205,3,That sounds really unsettling; I would be freaked out too.
+205,4,That sounds really unsettling.
+205,5,"I know, it's really unsettling."
+205,6,I completely understand; that's a really unsettling feeling.
+205,7,That's just... wrong.
+206,0,"Yeah, it felt really good, didn't it?"
+206,1,I'm glad you enjoyed it too.
+206,2,"Oh no, that sounds really uncomfortable."
+206,3,"Oh, I'm sorry, I didn't realize."
+206,4,"I'm sorry, it sounds like you're really frustrated."
+207,0,"It's alright, let it out."
+207,1,"Oh, sweetie, I'm so sorry."
+208,0,Hey.
+208,1,That must have been uncomfortable for you.
+208,2,I feel so uncomfortable and embarrassed.
+208,3,It sounds like you're feeling a bit uncomfortable.
+208,4,I guess I'm just feeling a little uncomfortable right now.
+208,5,You seem really upset.
+208,6,I'm feeling a little embarrassed.
+208,7,"Oh, honey, that sounds really scary."
+208,8,I don't want to talk about it.
+208,9,"Oh, Rach, that sounds really painful."
+208,10,"I'm so sorry, it must feel like you're going through this all by yourself."
+208,11,I know it's hard to imagine things changing.
+208,12,"It's hard to imagine that changing, isn't it?"
+208,13,"It's not dumb, it's just a lot to think about."
+209,0,"I'm so sorry, I didn't realize I was causing trouble."
+209,1,"Whoa, easy there, buddy, what's going on?"
+210,0,"I know, and I'm so sorry I'm late."
+210,1,"Oh, right, I'm so sorry, I messed up the time, didn't I?"
+210,2,"I'm really sorry, I'm running late."
+210,3,I understand that you're frustrated with this.
+210,4,"I'm sorry, I didn't realize I was making you feel that way."
+210,5,Hi.
+210,6,"Hey, it's alright."
+210,7,You sound really frustrated.
+210,8,"I'm sorry, I'm late."
+210,9,"Oh, I get it, you're feeling a little frustrated right now."
+211,0,I understand you're upset.
+211,1,"He stole from me, and now I want him gone!"
+211,2,"Oh, I am so sorry to hear that."
+211,3,I'm so sorry.
+211,4,"Oh, man, that must feel like a real betrayal."
+211,5,I understand this must be incredibly painful.
+211,6,I can only imagine how painful this must be.
+211,7,I can only imagine how betrayed you must feel right now.
+212,0,"Of course, I wanted to."
+212,1,"It was a really nice gesture, though."
+212,2,"I know, and I'm glad I could be here."
+212,3,I just feel like I'm wasting your time.
+212,4,I can only imagine how that must feel.
+212,5,"It’s hard, isn’t it?"
+212,6,"It's just... a lot to take in, isn't it?"
+213,0,It's understandable to feel that way.
+213,1,"I understand, it's hard to feel inadequate."
+213,2,I understand how that might feel.
+213,3,It sounds like you're feeling insecure about this.
+213,4,That must be so frustrating to hear all the time.
+213,5,I just feel so inadequate.
+213,6,Yeah.
+213,7,I hope so.
+213,8,"Okay, here goes nothing."
+213,9,I'm here for you if you need anything.
+213,10,"You're feeling a little unsure, huh?"
+213,11,"You're a good friend, Chandler."
+214,0,It sounds like you're feeling really discouraged right now.
+214,1,I know how disappointing that can be.
+214,2,I know how frustrating that must be.
+214,3,"I don't know if I can, I'm just not good enough."
+214,4,It sounds like you're really beating yourself up about it.
+214,5,"It’s okay, you’re not alone in feeling that way."
+214,6,"It sounds like you're feeling a little down on yourself, Treeger."
+214,7,"It's just… frustrating, right?"
+215,0,I'm so sorry; that sounds incredibly frustrating.
+215,1,"I'm so sorry, that sounds really frustrating."
+215,2,I feel so lost.
+215,3,I understand; being cooped up can be tough.
+215,4,I understand how that might feel.
+215,5,It sounds like you're feeling conflicted about leaving.
+215,6,It sounds like you’re trying to hold back something important.
+215,7,It's okay to feel that way.
+215,8,"It's hard, isn't it?"
+215,9,Bye.
+215,10,I understand.
+216,0,"Thank you, I appreciate that so much."
+216,1,Thank you!
+216,2,I'm so excited for you.
+216,3,"Oh, wow..."
+217,0,"Oh, are you okay?"
+217,1,I'm scared.
+217,2,"No, I don't."
+217,3,Okay.
+217,4,I'm so confused right now.
+217,5,"Oh, wow."
+217,6,I don't think so.
+217,7,That sounds really scary.
+217,8,It sounds like you had a really fun night!
+217,9,That's a huge relief.
+217,10,I'm relieved too.
+217,11,"I'm feeling so relieved, too."
+218,0,"I don't know, but it feels overwhelming, doesn't it?"
+218,1,I'm so scared right now.
+218,2,I'm so glad you're asking for my input.
+219,0,"I understand your worry, it's nerve-wracking."
+219,1,"I don't know, I just... I don't know."
+220,0,It smells like something's burning.
+220,1,"It's awful, isn't it?"
+221,0,"Yes, I do."
+221,1,"Oh no, that's so frustrating."
+221,2,"I'm sorry, what did you say?"
+221,3,"I understand, it can be stressful when things don't go smoothly."
+221,4,It sounds like you're feeling a bit down on yourself.
+222,0,"Oh, wow, that's a lot of pressure!"
+222,1,That's a tough spot to be in.
+222,2,"It's okay, I understand."
+222,3,That's fantastic!
+222,4,Me too!
+222,5,That sounds like a lot of fun!
+222,6,"Oh, wow, that sounds like a lot of preparation!"
+222,7,I'm so happy for you!
+222,8,"A grilled cheese, but fancy!"
+222,9,That sounds absolutely delicious and so thoughtful.
+222,10,"Oh no, that must be so disappointing!"
+222,11,"Oh, wow, that must have been disappointing."
+222,12,"I'm so sorry, I can't believe I did that."
+222,13,It sounds like you're feeling a little stressed about the cooking!
+223,0,"Oh, honey, I know that doesn't make it feel any better right now."
+223,1,"Oh, honey, I understand."
+223,2,"It's just, I didn't think I *couldn't*."
+223,3,"Oh, Chandler, I'm so sorry, that sounds incredibly frustrating."
+223,4,"Oh, Chandler, I get why you're feeling this way."
+223,5,"Oh, honey."
+223,6,You seem really down about this.
+224,0,"It feels so good to relax, doesn't it?"
+224,1,And now you are drifting.
+224,2,I feel so relaxed.
+224,3,Rest.
+224,4,I feel so peaceful.
+224,5,I understand.
+224,6,I know you can quit.
+224,7,That's right.
+224,8,I can feel it.
+225,0,I'm ready when you are.
+225,1,I can hear the relief in your voice.
+225,2,"Oh, no, I don't think so."
+225,3,"I'm sorry, I don't get it."
+225,4,I'm so relieved to finally get through.
+225,5,I understand.
+226,0,"Honestly, I'm really struggling."
+226,1,That's great to hear.
+226,2,It must be hard to get to know him.
+226,3,It sounds like you're feeling a bit frustrated.
+226,4,It's frustrating when someone you care about keeps their feelings bottled up.
+226,5,I can see why you're frustrated.
+226,6,That sounds really frustrating.
+226,7,Hey.
+226,8,I can tell you're feeling a little frustrated.
+227,0,"Oh, you're feeling a bit mischievous, aren't you?"
+227,1,"Oh, honey, I can see you're completely thrown."
+227,2,"I am so sorry, I didn't mean to blurt that out."
+227,3,"Oh, Ben, I see you're flustered."
+228,0,"Oh, that sounds like something that could easily be mixed up."
+228,1,"I know it's not always that simple, is it?"
+228,2,"Oh, that’s frustrating."
+228,3,It's frustrating when things aren't as straightforward as they seem.
+228,4,"I'm sorry, you feel that way."
+228,5,I'm sorry you feel that way.
+228,6,It sounds like you're feeling pretty down on yourself.
+228,7,It sounds like you're really feeling burnt out right now.
+228,8,It sounds like you're really feeling burnt out.
+228,9,"I understand, it's a tough decision."
+228,10,I hear how frustrated you are.
+228,11,"Oh, wow."
+228,12,"I'm so sorry, that's awful."
+229,0,I can understand why that would be so captivating.
+229,1,"It's hard to believe, isn't it?"
+229,2,I can see how that would be really funny.
+229,3,"Oh, yes, please!"
+229,4,That sounds like a blast!
+229,5,"Yeah, it really is."
+229,6,That would be terrible.
+229,7,"Sure, go right ahead."
+229,8,Thanks.
+229,9,That would be pretty wild.
+229,10,"I know, right?"
+230,0,That must have been a difficult time.
+230,1,I understand; it's hard to let go.
+230,2,I understand; it's hard to change your mind.
+230,3,"I understand, it's hard to feel comfortable right now."
+230,4,I understand your hesitation.
+230,5,I'm just so tired of this.
+230,6,"Oh, honey, I'm so sorry."
+230,7,I really don't want to talk about it.
+230,8,"Oh, honey, that sounds awful."
+231,0,"It's hard, isn't it?"
+231,1,"It's tough, isn't it?"
+231,2,It sounds like you're really into this Yasmine Bleeth.
+231,3,I love you too.
+231,4,I understand.
+231,5,"I know, I know."
+231,6,I'm glad you're here.
+231,7,"Oh, honey, that must have been so hard."
+231,8,"Oh, honey."
+231,9,"Oh, honey."
+231,10,That's so rough.
+231,11,It's just awful to think about.
+231,12,"Of course, I do."
+231,13,"Oh boy, here we go."
+232,0,"Oh, wow, that must be a shock."
+232,1,"Oh, wow, that must be tough."
+232,2,I'm not sure I'm ready for everyone to know yet.
+232,3,"Oh, I understand, it must be hard for him."
+232,4,"It's okay, it's understandable if he's not ready."
+232,5,"Whoa, okay, sounds like you're really excited."
+232,6,"I just want her to be happy, you know?"
+232,7,I just can't believe you said that!
+232,8,"And... I'm happy for you too, Mon."
+232,9,"Oh, hey!"
+233,0,I can only imagine how upsetting that must be.
+233,1,"Oh, so this is really upsetting to you."
+233,2,"Oh, sweetie, I'm sorry."
+233,3,"Oh, sweetie, I know how important this is to you."
+233,4,"Oh, Pheebs, I'm sorry if I've made you feel that way."
+233,5,I just want you to be happy.
+233,6,"Yeah, we did, and it's going to be that way again."
+233,7,I'm so glad we did.
+233,8,"That sounds great, but are you sure you're feeling up to it?"
+233,9,I'm so happy to hear that!
+233,10,I'm so excited!
+233,11,I'm so glad!
+233,12,"Oh, honey, that must have been frustrating."
+233,13,I'll stop.
+234,0,I'm glad.
+234,1,"I'm so sorry, it isn't."
+234,2,"Oh, honey, no."
+234,3,I'm so sorry.
+234,4,I am so disappointed right now.
+234,5,"I'm so sorry, I didn't mean to upset you."
+234,6,"I am so, so angry right now."
+234,7,I didn't mean it like that.
+234,8,"I don't know, what's yours?"
+234,9,That sounds really nice.
+234,10,"It's the best, isn't it?"
+234,11,I love the beach too.
+234,12,I like the beach too.
+234,13,That's a good one.
+234,14,You think so?
+235,0,"Oh, I don't know, I'm not sure I can."
+236,0,I'm glad you think so.
+237,0,I'm really not sure.
+237,1,"Oh, good!"
+237,2,I understand that's important.
+237,3,"I hear you, it's tough to be dealing with this."
+237,4,I really don't want to talk about it.
+237,5,That sounds incredibly draining.
+237,6,That sounds incredibly disheartening.
+237,7,"Oh, honey, that sounds utterly deflating."
+237,8,That's got to be a crushing disappointment.
+237,9,I feel like I'm wearing a bra!
+237,10,"Thanks, I could really use that right now."
+237,11,"Oh, come on, are you sure?"
+238,0,That must have been a difficult thing to process.
+238,1,"I'm sure it's still hard to see her, no matter what."
+238,2,"Oh, honey, I can't imagine how difficult this must be."
+238,3,"Oh, honey, I'm so sorry."
+238,4,"Oh, honey, I am so sorry."
+239,0,"Yes, I'm here."
+239,1,"Oh, that sounds incredibly stressful."
+239,2,"I don't know, I'm not sure I can remember anymore."
+239,3,"Oh, wow, that must have been incredibly stressful."
+239,4,"I’m having a hard time, okay?"
+239,5,"It's nice to meet you, Ginger."
+239,6,I'm sorry you're feeling so stressed right now.
+239,7,"I really do, but I can wait."
+239,8,"That's… surprisingly nice, actually."
+239,9,I understand.
+239,10,You sound like you're really holding on.
+239,11,"Oh no, what happened?"
+240,0,"Oh, honey, I can see how much this means to you."
+240,1,You can't control me!
+240,2,"I just want you to be safe, darling."
+240,3,You really think I'd be better off without him?
+240,4,"It's just a bit of acting, darling."
+240,5,"You're really enjoying this, aren't you?"
+240,6,"Of course, darling."
+240,7,"I appreciate that, Mother."
+240,8,"No, darling, I am not."
+240,9,"Oh, you poor thing."
+240,10,"I know it’s confusing, honey."
+240,11,"Oh, honey, that must be so overwhelming."
+240,12,"I’m so sorry, I didn’t mean to upset you."
+240,13,I think I'm going to be sick.
+240,14,No one told me anything.
+240,15,I…I think I need a drink.
+240,16,"I don’t know, I didn’t really pay attention."
+241,0,"No, I don't."
+241,1,Good.
+241,2,Good.
+241,3,That sounds like a pretty strong urge.
+241,4,It sounds like you're feeling a lot of pressure.
+241,5,"Hey, sounds like you're feeling pretty amped up."
+241,6,You sound excited!
+241,7,Maybe.
+241,8,"Well, it's a small world, isn't it?"
+241,9,"Oh wow, that must be exciting!"
+241,10,That's so cool!
+241,11,That's amazing!
+241,12,Yeah!
+241,13,That's quite a career shift!
+241,14,You are very kind.
+242,0,What's on your mind?
+242,1,"I'm sorry, I know this is frustrating."
+242,2,"I understand, it's incredibly frustrating."
+242,3,"I know it's hard, but you can do this."
+242,4,I can see that's really hard for you.
+242,5,"I'm so sorry, it's hard."
+242,6,It sounds like you could really use some help.
+242,7,That sounds incredibly overwhelming.
+243,0,I understand it can be frustrating when things aren't where they should be.
+243,1,I understand that can be frustrating.
+243,2,"Oh, I see."
+243,3,She's lucky to have you.
+243,4,That's a really frustrating situation.
+243,5,"Oh, that sounds frustrating."
+244,0,I can see how stressful it must be to keep all of that a secret.
+244,1,It sounds like you're carrying a lot right now.
+244,2,I understand this is difficult.
+244,3,What's going on?
+244,4,I can only imagine how frustrating that must feel.
+244,5,I just feel so alone in this whole process.
+244,6,"Oh no, that sounds awful."
+244,7,"Ugh, I can’t believe that guy."
+244,8,That sounds incredibly frustrating.
+244,9,"I'm so sorry, that sounds incredibly frustrating."
+244,10,I’m guessing you’re just about done with dating.
+244,11,"Oh, wow."
+244,12,"Oh, I'm sorry, that sounds frustrating."
+244,13,That sounds like a bad omen.
+244,14,It sounds like you're really frustrated.
+244,15,"I get that, it can be frustrating."
+244,16,You seem really down about it.
+244,17,"Okay, that makes sense."
+244,18,"It’s been a rough one, huh?"
+244,19,Oh yeah?
+244,20,"Yeah, it's such a relief when things start to make sense."
+244,21,"That’s... really great, Chandler."
+245,0,Hey there.
+245,1,How are you doing today?
+245,2,They're just some things I've been working on.
+245,3,They're...a lot.
+245,4,"Oh, I'm sorry to hear that."
+246,0,I can see this is really hard for you.
+246,1,That's a hard thing to accept.
+246,2,I know it's hard to accept.
+246,3,It sounds like you're feeling a bit lost and frustrated.
+246,4,It must be hard to see someone you knew so well and feel so distant.
+246,5,It must be difficult to see someone you knew change like that.
+246,6,"Oh, Rhonda, that must be so hard."
+246,7,"Oh, wow, that must feel strange."
+246,8,"Oh, wow, that must feel strange."
+246,9,I remember the time we went to the zoo.
+246,10,"Oh, honey, that must feel awful."
+246,11,It must feel awful to be ignored.
+246,12,It must be frustrating to feel like you're being shut out.
+246,13,It’s hard when things change like that.
+247,0,"It's brewing, but I'm feeling a bit sluggish this morning."
+247,1,"Thank you, I appreciate it."
+247,2,"Oh, that sounds uncomfortable."
+247,3,I just can't help myself sometimes.
+247,4,It must be frustrating to feel stuck sometimes.
+248,0,I understand; it sounds like you're going through a lot right now.
+249,0,I understand.
+249,1,I'm sorry.
+249,2,I appreciate that.
+249,3,"Oh, really?"
+249,4,I'm excited to hear about it!
+249,5,I'm so glad.
+249,6,I'm on my way.
+249,7,"You're very welcome, dear."
+250,0,"Oh, wow."
+250,1,Oh.
+250,2,"I know this is hard, but I'm sure you'll be okay."
+250,3,I understand this is hard to hear.
+250,4,"Okay, bye."
+250,5,"I'm sorry, that must have stung."
+250,6,"I'm so sorry, that sounds really tough."
+250,7,"I'm so sorry, that sounds really painful."
+250,8,I understand.
+251,0,"Wow, that must have been a lot to take in."
+251,1,"It's okay, sometimes things just feel overwhelming."
+251,2,I understand.
+251,3,"Yeah, I guess I am."
+251,4,"Oh, wow, that's gotta sting a bit."
+252,0,I understand your frustration.
+252,1,I'm really frustrated right now.
+252,2,I'm sorry you're feeling so frustrated.
+252,3,It sounds like you're really frustrated and hurt right now.
+252,4,That must feel incredibly unfair.
+252,5,That sounds incredibly difficult.
+252,6,It sounds like you're feeling really overwhelmed and frustrated right now.
+252,7,It's okay to feel overwhelmed by that request.
+252,8,It must feel like you're being blamed for everything.
+252,9,"You're really hurting, aren't you?"
+252,10,It sounds like you're really hurting right now.
+252,11,"It just sucks, doesn't it?"
+252,12,"It's so hard to just let it go, isn't it?"
+252,13,It's so tough to let go of something that stings.
+252,14,I can imagine.
+252,15,I know you're hurting.
+252,16,It sounds like you're really struggling with keeping those memories buried.
+252,17,I can only imagine how frustrating that must be.
+252,18,I can see how much you’re still hurting.
+253,0,It must be a lot to process.
+253,1,That sounds like a really difficult situation.
+253,2,"That makes sense, it's hard to jump into something new right away."
+253,3,"That sounds like it could be a fun, low-pressure situation for you."
+253,4,"She is, and she's really hoping to find someone."
+253,5,"Oh wow, you seem pretty excited."
+253,6,"That's great to hear, I'm so happy for you both!"
+253,7,"Well, this is exciting!"
+253,8,"That sounds like a plan, buddy."
+253,9,"I know, I know, I’m being a little pushy."
+253,10,I'm feeling a little overwhelmed right now.
+253,11,That sounds like a great idea.
+253,12,"I can tell you aren't sure, and that's okay."
+254,0,"I'm coming, I'm coming, just give me a second."
+254,1,"Easy, buddy, let's focus on getting her to the hospital."
+254,2,"Okay, okay, I'm coming."
+254,3,"I know, I know, it's just... this is a lot."
+254,4,"It's okay, you'll still look beautiful."
+254,5,I can't believe you're in the fridge right now.
+254,6,"I'm sorry, but I don't think I can do that right now."
+254,7,"I'm sorry, I just wanted to make a good impression."
+254,8,"Oh, honey, you must be so nervous."
+254,9,What? You don't think I'm ready?
+254,10,You must be really nervous right now.
+254,11,I'm sorry you're feeling that way.
+254,12,"I know, it's a lot to take in right now."
+254,13,"I know, it's amazing, isn't it?"
+254,14,"I'm so excited for you, I can't believe it's actually happening!"
+254,15,"I'm so excited for you, too!"
+254,16,I'm so excited!
+254,17,"I know, it's all a bit much right now."
+255,0,I'm here.
+255,1,I... I don't understand.
+255,2,It's... it's just hard to explain.
+255,3,I'm glad I could be clear.
+255,4,"Oh, wow, that's so exciting!"
+255,5,"I know, right?"
+255,6,"Wow, that's a big leap."
+255,7,That's amazing!
+255,8,"Oh no, is everything okay?"
+256,0,I just felt really lost and needed someone.
+256,1,"Oh, wow, that must be really difficult."
+257,0,That sounds like a nice place to live.
+257,1,"Yeah, I think so."
+257,2,I'd really like that.
+257,3,That sounds really nice.
+257,4,Sounds like fun.
+258,0,"Oh, you're really struggling with this, aren't you?"
+258,1,I understand wanting something that feels widely appealing.
+258,2,"Oh, that sounds like a real challenge."
+258,3,It's tough when you feel like you need to change yourself.
+258,4,It's frustrating when you feel like your name doesn't fit you.
+258,5,It's frustrating when you feel like you're not being represented accurately.
+258,6,"That's a tough one, I understand."
+258,7,"It's frustrating to feel like you can't quite put your finger on it, isn't it?"
+258,8,"It's frustrating when you can't quite place something, isn't it?"
+258,9,You seem to like it!
+258,10,"You're really trying to find the perfect fit, aren't you?"
+258,11,You seem excited about the name.
+258,12,"It's frustrating when something seems so close but doesn't quite fit, isn't it?"
+259,0,I understand your frustration.
+259,1,I just don't know what to say.
+259,2,I know this is difficult.
+259,3,I just don't know what to say.
+259,4,I know it can be frustrating to feel misunderstood.
+259,5,That must have been quite the experience.
+259,6,I can see how important this is to you.
+259,7,"You're really upset, aren't you?"
+259,8,You sound really frustrated.
+259,9,I can see you're frustrated.
+259,10,I can see why you'd feel that way.
+259,11,I'm so sorry you feel that way.
+259,12,I hear you.
+259,13,I can see why you're so upset.
+259,14,I understand you're really upset right now.
+259,15,I'm just trying to understand where all of this is coming from.
+260,0,That's wonderful to hear!
+260,1,"Good for you, Rachel!"
+260,2,I know how hard it can be to keep secrets sometimes.
+260,3,"Oh, no, what happened?"
+260,4,I am so glad you liked it!
+260,5,"Oh no, what happened?"
+260,6,"I just got so excited, and then I got really disappointed."
+260,7,"Oh, honey."
+260,8,I think I might.
+260,9,That's so exciting!
+260,10,"Okay, okay, I understand."
+261,0,"Of course, I would."
+261,1,"Wow, that's... incredible."
+261,2,Of course.
+261,3,"Okay, I can do that."
+261,4,Awesome!
+261,5,"Okay, I'll bite."
+261,6,"Good, I'm glad to hear it."
+261,7,"Okay, I get it."
+261,8,You okay?
+262,0,Hello there!
+262,1,"Hey, what's up?"
+262,2,"Yeah, I'm stoked to finally have them."
+262,3,"It was good, thanks for asking."
+262,4,"Well, that doesn't sound good."
+262,5,"I'm sorry, it wasn't a good trip."
+262,6,"Oh man, that's a bit of a letdown, huh?"
+262,7,I'm glad you like them!
+262,8,Sure! I'd love some.
+262,9,Coming right up.
+262,10,"Decaf, please."
+262,11,"Okay, coming right up."
+262,12,Is everything alright?
+262,13,"Okay, I'm listening."
+262,14,I did a thing.
+262,15,"Wow, that's a lot to take in!"
+262,16,"Wow, that's a lot to take in."
+263,0,Hi there.
+263,1,What's on your mind?
+263,2,I've been feeling a bit lost lately.
+263,3,"Oh no, everything okay?"
+263,4,"No, but she did have to get stitches."
+263,5,"Oh, wow, that must be a lot to take in."
+263,6,"Oh, wow."
+263,7,"Oh, wow, that sounds really stressful."
+263,8,I don't know.
+263,9,"Oh, wow, that's got to be so difficult."
+264,0,"Oh no, that's so frustrating!"
+264,1,"This is so frustrating, I know."
+264,2,"No, I didn't do any of this."
+264,3,"Wow, you must have been really busy!"
+265,0,"Oh wow, that must have been such a shock to see them again after all this time."
+265,1,"Wow, that sounds like quite the reunion!"
+266,0,"Yes, of course, please come in."
+266,1,What's wrong?
+266,2,Do you feel alright?
+266,3,"I'm just feeling a bit lost, I guess."
+266,4,It sounds like you're not feeling so great.
+266,5,"Okay, I'm listening."
+266,6,"Alright, I hear you."
+266,7,"I understand, and I wouldn't want that either."
+266,8,I understand.
+266,9,I just want to feel something.
+266,10,"Oh, Ross."
+266,11,I'm not sure I understand.
+266,12,I'm not.
+266,13,"I'm so sorry, I didn't mean to make you feel like this."
+266,14,I'm so embarrassed.
+266,15,I just thought... maybe...
+266,16,I can't believe this is happening.
+267,0,Hey.
+267,1,"Hey, what's up?"
+267,2,"Oh, man, that's rough."
+267,3,"I'm so sorry, that's terrible timing."
+267,4,"Oh wow, that's a lot of pressure, huh?"
+267,5,"I know, it's a lot to take in."
+267,6,I'm not sure I can do this.
+267,7,That sounds like a lot.
+267,8,"Oh, I see, you're not sure."
+267,9,"Oh, come on, don't be like that."
+267,10,I understand it's a lot to take in.
+268,0,That sounds like a huge relief.
+268,1,"I'm so sorry, that must be incredibly upsetting to hear."
+268,2,"I know, it's incredibly frustrating and disappointing."
+268,3,"Hey, it's okay."
+268,4,It sounds like you're feeling a bit lost right now.
+268,5,Hi.
+268,6,I appreciate you being here for me.
+268,7,I'm here for you.
+268,8,"That's a small comfort, but I appreciate you saying it."
+268,9,"That's a lot to take in, isn't it?"
+268,10,"I know, it's incredibly frustrating."
+268,11,That sounds like a really difficult situation to be in right now.
+268,12,I know this is a lot to take in.
+268,13,"It's a lot to take in, isn't it?"
+269,0,It sounds like you're feeling a little unsure about it.
+269,1,I'm sorry; I didn't mean to upset you.
+269,2,I just feel so silly for getting so worked up.
+269,3,"I understand, it's hard to feel pressured like that."
+269,4,"Oh, wow, you're really excited to share!"
+270,0,"She's not here right now, can I help you with something?"
+270,1,"Oh, okay, I understand."
+270,2,I understand; that must be a bit awkward.
+270,3,"Okay, thanks."
+270,4,I understand; it's important to get things where they need to be.
+270,5,It's a human skull.
+270,6,That must be quite a sight.
+270,7,"Okay, thanks."
+270,8,I can understand why you'd be surprised.
+270,9,I guess I never thought about it like that.
+270,10,I'm glad you appreciate it.
+270,11,That's so sweet.
+270,12,I can see how that might sound a little strange.
+270,13,I guess I just never thought about it.
+270,14,"It's a special time, isn't it?"
+271,0,I understand that can be frustrating.
+271,1,I understand you're frustrated.
+271,2,I'm really not doing well right now.
+271,3,"Oh no, that sounds terrifying!"
+271,4,I'm here.
+271,5,"I'm so sorry, that sounds absolutely terrifying."
+272,0,"Wow, that sounds like a really overwhelming morning."
+272,1,"Oh, that sounds incredibly frustrating."
+272,2,"Oh, wow, that's incredibly frustrating."
+272,3,That sounds incredibly stressful.
+272,4,That sounds like a lot to deal with all at once.
+272,5,I can hear how incredibly stressed you are right now.
+273,0,I haven't seen him.
+273,1,"Oh no, is everything alright?"
+273,2,"I'm so sorry, are you okay?"
+273,3,"I'm just worried about you, buddy."
+274,0,I understand.
+274,1,I'm just so stressed about this whole thing.
+274,2,I can see why you might think that.
+274,3,I'm not sure I should.
+274,4,"Awesome, let's go!"
+275,0,I'm sorry to hear that.
+275,1,I understand.
+275,2,Okay.
+275,3,Okay.
+276,0,Hey.
+277,0,I just feel so lost and overwhelmed right now.
+278,0,"Oh my gosh, that sounds absolutely violating and awful."
+278,1,That is absolutely violating and awful.
+278,2,That sounds incredibly violating.
+278,3,"That sounds exciting, but I'm still reeling from what happened on the train."
+278,4,"Oh honey, that's a bummer."
+278,5,I know it can be hard to find a photo you both love.
+278,6,That sounds frustrating.
+278,7,"I am so sorry, that sounds awful."
+278,8,That sounds incredibly frustrating.
+278,9,"Wow, that's a bummer, I know how frustrating that can be."
+278,10,I'm sorry; that must be so frustrating.
+278,11,It's frustrating when you feel like you're always missing the mark.
+278,12,That’s a really good idea!
+278,13,That sounds like it would be fun!
+278,14,"You’re really not happy with any of the pictures, are you?"
+278,15,I think that’s really nice of you to include him.
+278,16,"Oh honey, that's so frustrating!"
+279,0,I can see you're really upset.
+279,1,I understand you're upset about that.
+279,2,I don't think I did.
+279,3,I just want them back.
+279,4,I just want you to leave me alone!
+279,5,I don't want to share.
+279,6,"Okay, maybe we can share."
+279,7,It sounds like you're feeling really frustrated and confused right now.
+279,8,It sounds like you're really frustrated right now.
+279,9,That sounds really frustrating.
+279,10,It sounds like you're feeling really self-conscious and unsure.
+279,11,"That makes sense, it's probably not that big of a deal."
+279,12,I understand.
+279,13,I guess that makes me feel better.
+279,14,I think it's worth a shot if you're feeling unsure.
+279,15,"It's just that you really hate it, don't you?"
