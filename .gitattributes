@@ -1,2 +1,2 @@
-imagebind_mllm.ipynb filter=lfs diff=lfs merge=lfs -text
+finetune_mllm.ipynb filter=lfs diff=lfs merge=lfs -text
 cropFaceNotebook.ipynb filter=lfs diff=lfs merge=lfs -text
