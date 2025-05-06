@@ -80,3 +80,9 @@ We evaluated our **Empathetic MLLM** (Multimodal Large Language Model) against b
 - **Jiwon Hae** – Face cropping, LLaMA MLLM fine-tuning  
 
 ---
+
+## 📄 Full Report
+
+For detailed methodology, experiments, and analysis, please refer to the full technical report:
+
+👉 [**Multimodal Empathetic Response Generation – Full Report (PDF)**](multimodal_mllm.pdf)
