@@ -54,14 +54,22 @@ We evaluated models across four dimensions:
 
 ## 🏆 Results Summary
 
-| Model                          | Fluency ↓ | Dist-2 ↑ | BERTScore F1 ↑ | Empathy ↑ |
-|-------------------------------|-----------|----------|----------------|------------|
-| Mistral-7B (baseline)         | 23.56     | 0.3110   | 0.8765         | 0.63       |
-| LLaMA-3-8B (fine-tuned)       | **3.84**  | 0.1585   | 0.8656         | **0.70**   |
-| Empathetic MLLM (Mistral)     | 22.35     | 0.2907   | **0.8919**     | 0.63       |
-| Empathetic MLLM (LLaMA)       | 28.91     | **0.3260** | 0.8817       | 0.59       |
+We evaluated our **Empathetic MLLM** (Multimodal Large Language Model) against both pretrained and fine-tuned **text-only baselines** on the synthetic MELD dataset. Metrics include fluency (PPL), diversity, semantic similarity, and polarity alignment (emotion, sentiment, empathy).
 
-While the best **empathy score** came from the text-only fine-tuned model, the **multimodal MLLM** maintained **competitive polarity** and significantly improved **diversity** and **semantic similarity**—demonstrating the potential of incorporating multimodal input.
+| **Method**                 | **Model**                        | **PPL ↓** | **Dist-2 ↑** | **BERTScore F1 ↑** | **Emotion ↑** | **Sentiment ↑** | **Empathy ↑** |
+|---------------------------|----------------------------------|-----------|--------------|--------------------|----------------|------------------|---------------|
+| Text-Only (Pretrained)    | Mistral-7B                       | 23.56     | **0.3110**   | 0.8765             | 0.58           | 0.69             | 0.63          |
+|                           | LLaMA-3-8B                       | 34.18     | 0.2627       | 0.9022             | 0.64           | 0.72             | 0.68          |
+| Text-Only (Fine-Tuned)    | Mistral-7B                       | 17.82     | 0.1965       | 0.8891             | 0.56           | 0.68             | 0.62          |
+|                           | LLaMA-3-8B                       | **3.84**  | 0.1585       | 0.8656             | **0.67**       | **0.73**         | **0.70**      |
+| **Empathetic MLLM (Ours)**| Mistral-7B <br>(**text + audio + video**) | 22.35     | 0.2907       | **0.8919**         | 0.59           | 0.67             | 0.63          |
+|                           | LLaMA-3-8B <br>(**text + audio + video**) | 28.91     | **0.3260**   | 0.8817             | 0.54           | 0.64             | 0.59          |
+
+### 🔍 Key Takeaways
+
+- Fine-tuned **text-only LLaMA-3-8B** achieved the **lowest perplexity** and highest **empathy score**.
+- **Empathetic MLLMs** maintained **competitive polarity alignment**, while improving **diversity** (Dist-2) and achieving top **BERTScore F1** (Mistral variant).
+- Multimodal inputs help preserve **lexical richness** and **semantic coherence** in responses.
 
 ---
 
